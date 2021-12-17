@@ -12,7 +12,6 @@ namespace SrDevTest.Controllers
     [Route("[controller]")]
     public class ReportController : ControllerBase
     {
-        // TODO JOSE: POST
         [HttpPost]
         public void Post(Product product)
         {
@@ -22,7 +21,6 @@ namespace SrDevTest.Controllers
             dbProducts.Add(product);
         }
 
-        // TODO JOSE: GET
         [HttpGet]
         public ProductDto GetSingleProduct(int productId)
         {
@@ -63,18 +61,6 @@ namespace SrDevTest.Controllers
             return productDto;
         }
 
-        // TODO JOSE: GET ALL
-        // Get all products based on ProductInventory Quantity
-        //
-        // "or List of all products (need a filter for by location counts of product ids)"
-        // ...so a list of all products, but a list of all products based on the count
-        // at the location (see db.ProductInventory)
-        // For example, I want products that have a location count
-        // (i.e. db.ProductInventory Quantity) of 305.
-        //
-        // So first you get the data from ProductInventory db.
-        // You get a list of ProductID's
-        // Then you get products from Product db
         [HttpGet]
         [Route("GetAll")]
         public List<ProductDto> GetAllProductsByQuantity(int quantity)
@@ -125,12 +111,6 @@ namespace SrDevTest.Controllers
             return productList;
         }
 
-        // TODO JOSE: PUT
-        // Update (PATCH/PUT)
-        // When a PATCH request is performed, the properties of the request body are
-        // read, and if the resource has a property with the same name the property
-        // of the resource will be set to the new value.
-        // ...edit a single value...
         [HttpPut]
         public void Put(Product product)
         {
@@ -140,9 +120,6 @@ namespace SrDevTest.Controllers
             dbProducts.Add(product);
         }
 
-        // TODO JOSE: DELETE
-        // Deleting all or deleting individually...
-        // To delete all...you would essentially be destroying the whole db.
         [HttpDelete]
         public void Delete(int productId)
         {

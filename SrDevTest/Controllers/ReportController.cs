@@ -164,36 +164,34 @@ namespace SrDevTest.Controllers
             var dbProductInventories = context.ProductInventories;
             var dbSalesOrderDetails = context.SalesOrderDetails;
 
+            // TODO JOSE: There can be multiple LocationIDs...
             var productInventories = dbProductInventories
                 .Where(x => x.ProductId == productNumber && (x.ModifiedDate >= beginDate && x.ModifiedDate <= endDate))
                 .GroupBy(x => new { x.ProductId, x.LocationId })
                 .Select(g => new { g.Key.ProductId, g.Key.LocationId, QtyOnHand = g.Sum(q => q.Quantity) })
                 .FirstOrDefault();
 
-            if (productInventories != null)
-            {
-                var salesOrderDetails = dbSalesOrderDetails
-                .Where(x => x.ProductId == productInventories.ProductId)
+            var salesOrderDetails = dbSalesOrderDetails
+                .Where(x => x.ProductId == productNumber)
                 .GroupBy(x => new { x.ProductId })
                 .Select(g => new { g.Key.ProductId, QtyUsed = g.Sum(q => q.OrderQty) })
                 .FirstOrDefault();
 
-                if (salesOrderDetails != null)
+            if (productInventories != null && salesOrderDetails != null)
+            {
+                var consumptionQty = productInventories.QtyOnHand - salesOrderDetails.QtyUsed;
+
+                double percentageOverage = 0;
+                if (consumptionQty > salesOrderDetails.QtyUsed)
                 {
-                    var consumptionQty = productInventories.QtyOnHand - salesOrderDetails.QtyUsed;
-
-                    double percentageOverage = 0;
-                    if (consumptionQty > salesOrderDetails.QtyUsed)
-                    {
-                        percentageOverage = (consumptionQty / productInventories.QtyOnHand) * 100;
-                    }
-
-                    inventoryStockReportDto.ProductLocation = productInventories.LocationId;
-                    inventoryStockReportDto.ProductId = productInventories.ProductId;
-                    inventoryStockReportDto.QtyOnHand = productInventories.QtyOnHand;
-                    inventoryStockReportDto.ConsumptionQty = consumptionQty;
-                    inventoryStockReportDto.PercentageOfOverage = percentageOverage;
+                    percentageOverage = (consumptionQty / productInventories.QtyOnHand) * 100;
                 }
+
+                inventoryStockReportDto.ProductLocation = productInventories.LocationId;
+                inventoryStockReportDto.ProductId = productInventories.ProductId;
+                inventoryStockReportDto.QtyOnHand = productInventories.QtyOnHand;
+                inventoryStockReportDto.ConsumptionQty = consumptionQty;
+                inventoryStockReportDto.PercentageOfOverage = percentageOverage;
             }
 
             return inventoryStockReportDto;

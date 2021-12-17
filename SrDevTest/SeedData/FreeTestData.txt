@@ -1,0 +1,59 @@
+[#json for posting a new product
+    {
+        "productId": 0,
+        "name": "Tanoodle",
+        "productNumber": "T4596XS",
+        "makeFlag": true,
+        "finishedGoodsFlag": true,
+        "color": "Aquamarine",
+        "safetyStockLevel": 1,
+        "reorderPoint": 96,
+        "standardCost": 11,
+        "listPrice": 18,
+        "size": "3XL",
+        "sizeUnitMeasureCode": "Vinyl",
+        "weightUnitMeasureCode": "Tercel",
+        "weight": 1997,
+        "daysToManufacture": 40,
+        "productLine": "Toyota",
+        "class": "SLK-Class",
+        "style": "portal",
+        "productSubcategoryId": 1,
+        "productModelId": 1,
+        "sellStartDate": "2021-05-07T03:20:12Z",
+        "sellEndDate": "2020-10-11T04:51:13Z",
+        "discontinuedDate": "2021-01-20T22:15:31Z",
+        "rowguid": "72dd617a-4db5-4210-952d-d3e7ba82d9e7",
+        "modifiedDate": "2021-03-20T12:48:53Z"
+    }
+]
+#json for update testing
+[
+    {
+      "ProductId": 1,
+      "Name": "Adjustable Race car",
+      "ProductNumber": "AR-5381",
+      "MakeFlag": 0,
+      "FinishedGoodsFlag": 0,
+      "Color": null,
+      "SafetyStockLevel": 1000,
+      "ReorderPoint": 750,
+      "StandardCost": "0.0",
+      "ListPrice": "0.0",
+      "Size": null,
+      "SizeUnitMeasureCode": null,
+      "WeightUnitMeasureCode": null,
+      "Weight": null,
+      "DaysToManufacture": 0,
+      "ProductLine": null,
+      "Class": null,
+      "Style": null,
+      "ProductSubcategoryId": null,
+      "ProductModelId": null,
+      "SellStartDate": "2021-05-07T03:20:12",
+      "SellEndDate": null,
+      "DiscontinuedDate": null,
+      "Rowguid": "00000000-0000-0000-0000-000000000000",
+      "ModifiedDate": "2021-05-07T03:20:12"
+    }
+  ]

@@ -1,0 +1,4512 @@
+﻿[
+  {
+    "ProductId": 1,
+    "LocationId": 1,
+    "Shelf": "A",
+    "Bin": 1,
+    "Quantity": 408,
+    "rowguid": "47A24246-6C43-48EB-968F-025738A8A410",
+    "ModifiedDate": "2014-08-08T00:00:00"
+  },
+  {
+    "ProductId": 1,
+    "LocationId": 6,
+    "Shelf": "B",
+    "Bin": 5,
+    "Quantity": 324,
+    "rowguid": "D4544D7D-CAF5-46B3-AB22-5718DCC26B5E",
+    "ModifiedDate": "2014-08-08T00:00:00"
+  },
+  {
+    "ProductId": 1,
+    "LocationId": 50,
+    "Shelf": "A",
+    "Bin": 5,
+    "Quantity": 353,
+    "rowguid": "BFF7DC60-96A8-43CA-81A7-D6D2ED3000A8",
+    "ModifiedDate": "2014-08-08T00:00:00"
+  },
+  {
+    "ProductId": 2,
+    "LocationId": 1,
+    "Shelf": "A",
+    "Bin": 2,
+    "Quantity": 427,
+    "rowguid": "F407C07A-CA14-4684-A02C-608BD00C2233",
+    "ModifiedDate": "2014-08-08T00:00:00"
+  },
+  {
+    "ProductId": 2,
+    "LocationId": 6,
+    "Shelf": "B",
+    "Bin": 1,
+    "Quantity": 318,
+    "rowguid": "CA1FF2F4-48FB-4960-8D92-3940B633E4C1",
+    "ModifiedDate": "2014-08-08T00:00:00"
+  },
+  {
+    "ProductId": 2,
+    "LocationId": 50,
+    "Shelf": "A",
+    "Bin": 6,
+    "Quantity": 364,
+    "rowguid": "D38CFBEE-6347-47B1-B033-0E278CCA03E2",
+    "ModifiedDate": "2014-08-08T00:00:00"
+  },
+  {
+    "ProductId": 3,
+    "LocationId": 1,
+    "Shelf": "A",
+    "Bin": 7,
+    "Quantity": 585,
+    "rowguid": "E18A519B-FB5E-4051-874C-58CD58436C95",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 3,
+    "LocationId": 6,
+    "Shelf": "B",
+    "Bin": 9,
+    "Quantity": 443,
+    "rowguid": "3C860C96-15FF-4DF4-91D7-B237FF64480F",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 3,
+    "LocationId": 50,
+    "Shelf": "A",
+    "Bin": 10,
+    "Quantity": 324,
+    "rowguid": "1339E5E3-1F8E-4B82-A447-A8666A264F0C",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 4,
+    "LocationId": 1,
+    "Shelf": "A",
+    "Bin": 6,
+    "Quantity": 512,
+    "rowguid": "6BEAF0A0-971A-4CE1-96FE-692807D5DC00",
+    "ModifiedDate": "2014-08-08T00:00:00"
+  },
+  {
+    "ProductId": 4,
+    "LocationId": 6,
+    "Shelf": "B",
+    "Bin": 10,
+    "Quantity": 422,
+    "rowguid": "2C82427A-63F1-4877-A1F6-A27B4D201EB6",
+    "ModifiedDate": "2014-08-08T00:00:00"
+  },
+  {
+    "ProductId": 4,
+    "LocationId": 50,
+    "Shelf": "A",
+    "Bin": 11,
+    "Quantity": 388,
+    "rowguid": "FD912E69-EFA2-4AB7-82A4-03F5101AF11C",
+    "ModifiedDate": "2014-08-08T00:00:00"
+  },
+  {
+    "ProductId": 316,
+    "LocationId": 5,
+    "Shelf": "A",
+    "Bin": 11,
+    "Quantity": 532,
+    "rowguid": "1EE3DBD3-2A7E-47DC-AF99-1B585575EFB9",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 316,
+    "LocationId": 10,
+    "Shelf": "B",
+    "Bin": 1,
+    "Quantity": 388,
+    "rowguid": "CB2A24D7-9B70-4140-8836-9EB7592621D3",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 316,
+    "LocationId": 50,
+    "Shelf": "B",
+    "Bin": 8,
+    "Quantity": 441,
+    "rowguid": "36B375A3-022A-45BF-B425-DBFFAAC3145A",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 317,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 1,
+    "Quantity": 283,
+    "rowguid": "C04FC1CF-1D2B-4480-BA13-64C6EF780F4B",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 317,
+    "LocationId": 5,
+    "Shelf": "A",
+    "Bin": 1,
+    "Quantity": 158,
+    "rowguid": "83332A73-48A9-401D-95F4-385C944D716F",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 317,
+    "LocationId": 50,
+    "Shelf": "A",
+    "Bin": 21,
+    "Quantity": 152,
+    "rowguid": "4072C90C-A867-4F64-882F-EC45ADA1B79C",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 318,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 2,
+    "Quantity": 136,
+    "rowguid": "F287EFD3-CCC5-4344-9F4A-E588BBF29801",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 318,
+    "LocationId": 5,
+    "Shelf": "A",
+    "Bin": 2,
+    "Quantity": 171,
+    "rowguid": "B62232E8-90B5-4DA1-BFE1-453AA1917EFC",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 318,
+    "LocationId": 50,
+    "Shelf": "A",
+    "Bin": 22,
+    "Quantity": 132,
+    "rowguid": "D758C516-D9BF-4AA6-8E57-F5BD6D568F97",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 319,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 3,
+    "Quantity": 308,
+    "rowguid": "7367821F-BB8B-4102-86ED-A7FB7054F8E1",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 319,
+    "LocationId": 5,
+    "Shelf": "A",
+    "Bin": 3,
+    "Quantity": 184,
+    "rowguid": "BFB760AC-0767-4F76-8670-49488D0F731D",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 319,
+    "LocationId": 50,
+    "Shelf": "A",
+    "Bin": 23,
+    "Quantity": 305,
+    "rowguid": "FEBBCC76-2764-48A3-A086-77D1E883137C",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 320,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 4,
+    "Quantity": 481,
+    "rowguid": "BD134ECD-D4DA-406C-A7CE-7EC40F9BCF34",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 320,
+    "LocationId": 5,
+    "Shelf": "A",
+    "Bin": 4,
+    "Quantity": 372,
+    "rowguid": "DEEDBA07-171B-4038-88A5-A57166E8F446",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 320,
+    "LocationId": 50,
+    "Shelf": "A",
+    "Bin": 24,
+    "Quantity": 283,
+    "rowguid": "4FEF28B3-6652-4D3A-999B-00784D401E42",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 321,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 6,
+    "Quantity": 569,
+    "rowguid": "AFDBCF09-10F8-4F3C-86E1-379310FFBFE3",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 321,
+    "LocationId": 5,
+    "Shelf": "A",
+    "Bin": 6,
+    "Quantity": 540,
+    "rowguid": "65FC4167-6A09-46C9-A262-632B945B2FBB",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 321,
+    "LocationId": 50,
+    "Shelf": "A",
+    "Bin": 26,
+    "Quantity": 641,
+    "rowguid": "B291EE86-CB6E-4D74-B47D-B8B0794CA9C4",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 322,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 7,
+    "Quantity": 622,
+    "rowguid": "7726D791-A784-4754-B144-BB25C9E2F38A",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 322,
+    "LocationId": 5,
+    "Shelf": "A",
+    "Bin": 7,
+    "Quantity": 587,
+    "rowguid": "04DA1BB9-9625-4E71-B861-93F64A3A53DC",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 322,
+    "LocationId": 50,
+    "Shelf": "A",
+    "Bin": 27,
+    "Quantity": 475,
+    "rowguid": "02D51ED0-AF15-44E9-A355-86433710B0C0",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 323,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 35,
+    "Quantity": 603,
+    "rowguid": "F7863985-C001-44D5-A939-554C67DF203A",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 323,
+    "LocationId": 5,
+    "Shelf": "A",
+    "Bin": 12,
+    "Quantity": 568,
+    "rowguid": "BD637BC5-EB67-4424-8F92-DCA208276E6F",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 323,
+    "LocationId": 50,
+    "Shelf": "A",
+    "Bin": 28,
+    "Quantity": 513,
+    "rowguid": "968DAE62-EA98-49FE-B190-D1EC7B9E9F0C",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 324,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 36,
+    "Quantity": 585,
+    "rowguid": "C6E3BCDE-5F39-40EF-B253-AD2B018AB1CC",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 324,
+    "LocationId": 5,
+    "Shelf": "A",
+    "Bin": 13,
+    "Quantity": 568,
+    "rowguid": "AEC9BF74-0E06-4181-B6C7-C8FA41126A4E",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 324,
+    "LocationId": 50,
+    "Shelf": "A",
+    "Bin": 29,
+    "Quantity": 476,
+    "rowguid": "CEE69FD4-22EC-4D83-B9EC-C0AF63967839",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 325,
+    "LocationId": 1,
+    "Shelf": "H",
+    "Bin": 1,
+    "Quantity": 569,
+    "rowguid": "624AC935-868E-40E0-8668-950451746F90",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 325,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 1,
+    "Quantity": 540,
+    "rowguid": "CF93BBFB-A391-4313-814D-82D62FBE1AFB",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 325,
+    "LocationId": 60,
+    "Shelf": "A",
+    "Bin": 1,
+    "Quantity": 641,
+    "rowguid": "D42750B2-2C8A-4457-9DDA-4B43CBDC4594",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 326,
+    "LocationId": 1,
+    "Shelf": "H",
+    "Bin": 2,
+    "Quantity": 622,
+    "rowguid": "71A75809-8B9E-4F87-8687-8BDD367F2F72",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 326,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 2,
+    "Quantity": 587,
+    "rowguid": "67777062-A86A-4FED-BF8F-F7641EDF9444",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 326,
+    "LocationId": 60,
+    "Shelf": "A",
+    "Bin": 2,
+    "Quantity": 475,
+    "rowguid": "EADAA7F8-E962-46C4-977F-05538C494BCD",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 327,
+    "LocationId": 5,
+    "Shelf": "K",
+    "Bin": 1,
+    "Quantity": 408,
+    "rowguid": "61ADD309-16EF-40D4-9853-548F4EFDC40C",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 327,
+    "LocationId": 10,
+    "Shelf": "F",
+    "Bin": 1,
+    "Quantity": 443,
+    "rowguid": "553C89BB-2063-48E3-966F-B557EFD1F4E9",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 327,
+    "LocationId": 50,
+    "Shelf": "B",
+    "Bin": 9,
+    "Quantity": 513,
+    "rowguid": "A3AAD1F8-BA38-4F6C-99D3-DBC5E2BC9774",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 328,
+    "LocationId": 5,
+    "Shelf": "A",
+    "Bin": 8,
+    "Quantity": 568,
+    "rowguid": "BF52885D-74A3-422B-8C75-8A46350D9A6D",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 328,
+    "LocationId": 10,
+    "Shelf": "D",
+    "Bin": 1,
+    "Quantity": 585,
+    "rowguid": "C6C865B4-0DB2-44B7-9D5F-12D43B75F803",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 328,
+    "LocationId": 50,
+    "Shelf": "A",
+    "Bin": 14,
+    "Quantity": 476,
+    "rowguid": "EA52800F-A344-4C4A-9E37-D48A67FBBB6C",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 329,
+    "LocationId": 5,
+    "Shelf": "A",
+    "Bin": 9,
+    "Quantity": 558,
+    "rowguid": "7A1417A3-21EA-4DA1-B3D1-E85BAB7D8A9E",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 329,
+    "LocationId": 10,
+    "Shelf": "D",
+    "Bin": 2,
+    "Quantity": 576,
+    "rowguid": "AD6DB38A-997B-4AD8-A03B-7F38F8C3B7E1",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 329,
+    "LocationId": 50,
+    "Shelf": "A",
+    "Bin": 15,
+    "Quantity": 467,
+    "rowguid": "6CB842CB-7B2F-4D89-9187-3C81630FB907",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 330,
+    "LocationId": 5,
+    "Shelf": "A",
+    "Bin": 10,
+    "Quantity": 548,
+    "rowguid": "AD971345-BF63-47D4-975D-C56A6081FF0A",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 330,
+    "LocationId": 10,
+    "Shelf": "D",
+    "Bin": 3,
+    "Quantity": 566,
+    "rowguid": "FF9889D7-E242-4761-ACE0-EB0D95147FA8",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 330,
+    "LocationId": 50,
+    "Shelf": "A",
+    "Bin": 16,
+    "Quantity": 457,
+    "rowguid": "E6D96AF6-7E4C-46F7-9A2C-5E94CF403888",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 331,
+    "LocationId": 5,
+    "Shelf": "J",
+    "Bin": 5,
+    "Quantity": 574,
+    "rowguid": "D52D418A-C295-4CB9-A410-8EE245FC61A7",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 331,
+    "LocationId": 10,
+    "Shelf": "C",
+    "Bin": 6,
+    "Quantity": 441,
+    "rowguid": "1D251426-738F-4B5A-96C2-3C9226E18905",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 331,
+    "LocationId": 50,
+    "Shelf": "A",
+    "Bin": 12,
+    "Quantity": 390,
+    "rowguid": "85990921-D43F-41F9-9095-5863D687BB43",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 332,
+    "LocationId": 5,
+    "Shelf": "J",
+    "Bin": 6,
+    "Quantity": 344,
+    "rowguid": "171A680F-7A90-45DF-980D-48757F4B4EB4",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 332,
+    "LocationId": 10,
+    "Shelf": "C",
+    "Bin": 7,
+    "Quantity": 233,
+    "rowguid": "7A23DC3C-9BDC-4AA5-BA41-0C4E9F4B6E18",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 332,
+    "LocationId": 50,
+    "Shelf": "A",
+    "Bin": 13,
+    "Quantity": 267,
+    "rowguid": "C08F7632-254C-43EA-BF10-8EC79BBB4374",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 341,
+    "LocationId": 1,
+    "Shelf": "E",
+    "Bin": 4,
+    "Quantity": 372,
+    "rowguid": "00EED5CA-525C-4174-885D-846DEEFC223E",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 341,
+    "LocationId": 50,
+    "Shelf": "G",
+    "Bin": 10,
+    "Quantity": 392,
+    "rowguid": "AFB7CA1E-6F91-459B-B508-31D773564AC8",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 341,
+    "LocationId": 60,
+    "Shelf": "S",
+    "Bin": 1,
+    "Quantity": 339,
+    "rowguid": "A07991C9-CE2F-4081-A5F3-AC4DE98BA485",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 342,
+    "LocationId": 1,
+    "Shelf": "E",
+    "Bin": 5,
+    "Quantity": 369,
+    "rowguid": "FEA262C8-D498-4B77-B8FE-82258AFF6AD6",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 342,
+    "LocationId": 50,
+    "Shelf": "G",
+    "Bin": 12,
+    "Quantity": 388,
+    "rowguid": "EC6C3097-17F6-4108-A55B-3C239A965360",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 342,
+    "LocationId": 60,
+    "Shelf": "G",
+    "Bin": 11,
+    "Quantity": 336,
+    "rowguid": "7542FCE0-B9F7-42EC-9671-A4809C568743",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 343,
+    "LocationId": 1,
+    "Shelf": "E",
+    "Bin": 6,
+    "Quantity": 568,
+    "rowguid": "A82C0072-9A18-4318-A62A-92304EEB0443",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 343,
+    "LocationId": 50,
+    "Shelf": "S",
+    "Bin": 3,
+    "Quantity": 606,
+    "rowguid": "656A9A1F-6F1E-4D75-9CA5-FCD0FE3CC27B",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 343,
+    "LocationId": 60,
+    "Shelf": "S",
+    "Bin": 2,
+    "Quantity": 499,
+    "rowguid": "0F5D6037-A8C6-49B4-92B8-A50DC5880372",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 344,
+    "LocationId": 1,
+    "Shelf": "E",
+    "Bin": 7,
+    "Quantity": 358,
+    "rowguid": "000C77AB-C1D6-4F8E-A66D-ED8068140D8C",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 344,
+    "LocationId": 50,
+    "Shelf": "G",
+    "Bin": 14,
+    "Quantity": 332,
+    "rowguid": "6AD6B192-073E-49FE-97B0-1567C4F40778",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 344,
+    "LocationId": 60,
+    "Shelf": "G",
+    "Bin": 13,
+    "Quantity": 382,
+    "rowguid": "0A5EC50B-6C5D-4E08-B126-516EBA2006D3",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 345,
+    "LocationId": 1,
+    "Shelf": "E",
+    "Bin": 8,
+    "Quantity": 321,
+    "rowguid": "05E0EE89-8462-4B52-BC3C-7C7735214C05",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 345,
+    "LocationId": 50,
+    "Shelf": "G",
+    "Bin": 15,
+    "Quantity": 315,
+    "rowguid": "D4A2CFDA-F3A3-4A65-80B5-CCC70B046D4C",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 345,
+    "LocationId": 60,
+    "Shelf": "S",
+    "Bin": 4,
+    "Quantity": 300,
+    "rowguid": "331A2238-A0E4-4685-ADFD-F5B4F1AF9A5F",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 346,
+    "LocationId": 1,
+    "Shelf": "E",
+    "Bin": 9,
+    "Quantity": 585,
+    "rowguid": "11BC6F46-10DC-4771-AC9A-E2179F1B2461",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 346,
+    "LocationId": 50,
+    "Shelf": "S",
+    "Bin": 6,
+    "Quantity": 476,
+    "rowguid": "38F17071-FE89-4CB2-ACE2-CCB8F0CF0F7E",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 346,
+    "LocationId": 60,
+    "Shelf": "S",
+    "Bin": 5,
+    "Quantity": 641,
+    "rowguid": "24A6F94A-DA92-4566-91C8-59218A6CB9D9",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 347,
+    "LocationId": 1,
+    "Shelf": "E",
+    "Bin": 10,
+    "Quantity": 318,
+    "rowguid": "7295A247-2228-44B0-8218-0CB9908A5AC4",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 347,
+    "LocationId": 50,
+    "Shelf": "G",
+    "Bin": 17,
+    "Quantity": 246,
+    "rowguid": "87DD4E3B-4A78-47A4-9D45-685A43C91B8E",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 347,
+    "LocationId": 60,
+    "Shelf": "G",
+    "Bin": 16,
+    "Quantity": 332,
+    "rowguid": "206AAFB1-15F7-4DC4-B8EE-B3EB772EEB4D",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 348,
+    "LocationId": 1,
+    "Shelf": "E",
+    "Bin": 11,
+    "Quantity": 323,
+    "rowguid": "CDAB8141-2896-4B9D-A332-5F726EE6CB23",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 348,
+    "LocationId": 50,
+    "Shelf": "S",
+    "Bin": 8,
+    "Quantity": 251,
+    "rowguid": "0D8FE9AA-D64A-4842-9856-42AAD33DE485",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 348,
+    "LocationId": 60,
+    "Shelf": "S",
+    "Bin": 7,
+    "Quantity": 337,
+    "rowguid": "3E598D72-9120-42EA-9FA7-A0E2929E2538",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 349,
+    "LocationId": 1,
+    "Shelf": "E",
+    "Bin": 12,
+    "Quantity": 328,
+    "rowguid": "7109150F-14A3-4EAC-B72F-E128B3044ABF",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 349,
+    "LocationId": 50,
+    "Shelf": "G",
+    "Bin": 18,
+    "Quantity": 256,
+    "rowguid": "604C83FD-5918-4951-B8A2-2D047C0768AB",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 349,
+    "LocationId": 60,
+    "Shelf": "S",
+    "Bin": 9,
+    "Quantity": 342,
+    "rowguid": "332C44E7-F145-4BB2-BB36-FE8F9BD93596",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 350,
+    "LocationId": 5,
+    "Shelf": "J",
+    "Bin": 2,
+    "Quantity": 622,
+    "rowguid": "50BE1FE4-C767-41D9-BD46-748A31A0768D",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 350,
+    "LocationId": 10,
+    "Shelf": "C",
+    "Bin": 3,
+    "Quantity": 406,
+    "rowguid": "2E276E50-EFA2-4C02-B1C1-4999E16A1799",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 350,
+    "LocationId": 50,
+    "Shelf": "A",
+    "Bin": 2,
+    "Quantity": 313,
+    "rowguid": "9A23C432-BA8B-4F05-B7B4-94E451F01C24",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 351,
+    "LocationId": 5,
+    "Shelf": "J",
+    "Bin": 3,
+    "Quantity": 179,
+    "rowguid": "D1F587A6-A29F-47A6-88E5-30E9ECA52AB3",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 351,
+    "LocationId": 10,
+    "Shelf": "C",
+    "Bin": 4,
+    "Quantity": 281,
+    "rowguid": "8727068F-3B49-4031-AE74-31DE17693D6B",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 351,
+    "LocationId": 50,
+    "Shelf": "A",
+    "Bin": 3,
+    "Quantity": 145,
+    "rowguid": "A1962B7F-EC0E-43AC-80BB-A04E7CF0E31D",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 352,
+    "LocationId": 5,
+    "Shelf": "J",
+    "Bin": 10,
+    "Quantity": 300,
+    "rowguid": "F8BEF986-C583-4428-A515-358CEBEFF3B9",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 352,
+    "LocationId": 10,
+    "Shelf": "C",
+    "Bin": 1,
+    "Quantity": 278,
+    "rowguid": "71EA95CB-6490-4DB9-BEB3-38E565F45630",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 352,
+    "LocationId": 50,
+    "Shelf": "A",
+    "Bin": 20,
+    "Quantity": 195,
+    "rowguid": "1E6BAFF0-75FC-4C17-9B8F-164DB2531564",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 355,
+    "LocationId": 1,
+    "Shelf": "D",
+    "Bin": 16,
+    "Quantity": 276,
+    "rowguid": "8AD0C765-F104-4435-AFEB-0BBD74D6B08C",
+    "ModifiedDate": "2014-08-05T00:00:00"
+  },
+  {
+    "ProductId": 355,
+    "LocationId": 6,
+    "Shelf": "H",
+    "Bin": 16,
+    "Quantity": 257,
+    "rowguid": "2D1D737D-8877-4B9E-BAEC-DA6FE962E19C",
+    "ModifiedDate": "2014-08-05T00:00:00"
+  },
+  {
+    "ProductId": 355,
+    "LocationId": 50,
+    "Shelf": "C",
+    "Bin": 1,
+    "Quantity": 289,
+    "rowguid": "983C8FB4-B5A3-4DE8-97C0-C1D050E5848A",
+    "ModifiedDate": "2014-08-05T00:00:00"
+  },
+  {
+    "ProductId": 356,
+    "LocationId": 1,
+    "Shelf": "D",
+    "Bin": 17,
+    "Quantity": 262,
+    "rowguid": "6DE6FDD4-8DE6-478A-A7CB-312E68EDD8C6",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 356,
+    "LocationId": 6,
+    "Shelf": "H",
+    "Bin": 17,
+    "Quantity": 243,
+    "rowguid": "A03019E1-CD99-43ED-A1C7-6FF207AD3CE0",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 356,
+    "LocationId": 50,
+    "Shelf": "C",
+    "Bin": 2,
+    "Quantity": 275,
+    "rowguid": "D604707D-B5C2-49CF-A983-8934523E186D",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 357,
+    "LocationId": 1,
+    "Shelf": "D",
+    "Bin": 18,
+    "Quantity": 248,
+    "rowguid": "A492EC7B-D2A7-48F0-9BC6-66C779AFEAD3",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 357,
+    "LocationId": 6,
+    "Shelf": "H",
+    "Bin": 18,
+    "Quantity": 228,
+    "rowguid": "866AC631-6597-4B06-B019-8F040F552E49",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 357,
+    "LocationId": 50,
+    "Shelf": "C",
+    "Bin": 3,
+    "Quantity": 260,
+    "rowguid": "E879CFEB-5115-421B-BFE2-7376B72AFB4C",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 358,
+    "LocationId": 1,
+    "Shelf": "D",
+    "Bin": 19,
+    "Quantity": 233,
+    "rowguid": "DDAB150A-235C-432A-83D2-0822DB1B057D",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 358,
+    "LocationId": 6,
+    "Shelf": "H",
+    "Bin": 19,
+    "Quantity": 214,
+    "rowguid": "536B55D9-5DCF-4AF1-BC64-F19DD5022086",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 358,
+    "LocationId": 50,
+    "Shelf": "C",
+    "Bin": 4,
+    "Quantity": 246,
+    "rowguid": "0511F131-8A69-4975-AA97-54F366D8B211",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 359,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 8,
+    "Quantity": 369,
+    "rowguid": "46BC0376-AD5C-4BDC-99D4-55A959F32163",
+    "ModifiedDate": "2014-07-28T00:00:00"
+  },
+  {
+    "ProductId": 359,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 1,
+    "Quantity": 360,
+    "rowguid": "2D7484F7-F157-43E1-B33F-87CE2F94B360",
+    "ModifiedDate": "2014-07-28T00:00:00"
+  },
+  {
+    "ProductId": 359,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 1,
+    "Quantity": 374,
+    "rowguid": "52B0910C-93B1-47A6-B2B7-D78F14EBB914",
+    "ModifiedDate": "2014-07-28T00:00:00"
+  },
+  {
+    "ProductId": 360,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 9,
+    "Quantity": 363,
+    "rowguid": "B16BDAD8-4778-41AB-984D-D2DE2927E3B8",
+    "ModifiedDate": "2014-07-28T00:00:00"
+  },
+  {
+    "ProductId": 360,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 2,
+    "Quantity": 353,
+    "rowguid": "73DE1D45-D603-4C5C-BD6A-78A49943B502",
+    "ModifiedDate": "2014-07-28T00:00:00"
+  },
+  {
+    "ProductId": 360,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 2,
+    "Quantity": 368,
+    "rowguid": "01ADD3D7-E329-4167-9B7C-F3A2C31A25E1",
+    "ModifiedDate": "2014-07-28T00:00:00"
+  },
+  {
+    "ProductId": 361,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 10,
+    "Quantity": 499,
+    "rowguid": "55B9556B-A6BF-4BE1-8C4B-94510D875D60",
+    "ModifiedDate": "2014-08-03T00:00:00"
+  },
+  {
+    "ProductId": 361,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 3,
+    "Quantity": 601,
+    "rowguid": "4351724C-18C7-4E48-8E69-F0158E60E823",
+    "ModifiedDate": "2014-08-03T00:00:00"
+  },
+  {
+    "ProductId": 361,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 3,
+    "Quantity": 531,
+    "rowguid": "F340EB47-1825-4E24-A2F8-C3DAAAC9D1BC",
+    "ModifiedDate": "2014-08-03T00:00:00"
+  },
+  {
+    "ProductId": 362,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 11,
+    "Quantity": 377,
+    "rowguid": "2D215F50-E878-41FF-BE20-C30A74A4502A",
+    "ModifiedDate": "2014-08-03T00:00:00"
+  },
+  {
+    "ProductId": 362,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 4,
+    "Quantity": 315,
+    "rowguid": "D0EA3625-0C56-4380-8363-BF79B3DF9870",
+    "ModifiedDate": "2014-08-03T00:00:00"
+  },
+  {
+    "ProductId": 362,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 4,
+    "Quantity": 334,
+    "rowguid": "9EAD4EFE-86A5-4787-94F3-045D1636EF3D",
+    "ModifiedDate": "2014-08-03T00:00:00"
+  },
+  {
+    "ProductId": 363,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 12,
+    "Quantity": 499,
+    "rowguid": "2E2BC76C-4EE0-47A1-9A60-EA46E3659E4A",
+    "ModifiedDate": "2014-08-03T00:00:00"
+  },
+  {
+    "ProductId": 363,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 5,
+    "Quantity": 643,
+    "rowguid": "7322A3FA-0786-4BE6-A232-6E9613B4CCD0",
+    "ModifiedDate": "2014-08-03T00:00:00"
+  },
+  {
+    "ProductId": 363,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 5,
+    "Quantity": 619,
+    "rowguid": "BA60B595-1709-4BB1-A224-D9D56DC7C70A",
+    "ModifiedDate": "2014-08-03T00:00:00"
+  },
+  {
+    "ProductId": 364,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 13,
+    "Quantity": 368,
+    "rowguid": "0336DF16-7E36-4C21-BD6E-059123A74698",
+    "ModifiedDate": "2014-08-08T00:00:00"
+  },
+  {
+    "ProductId": 364,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 6,
+    "Quantity": 358,
+    "rowguid": "015F9608-E327-446F-B9A1-9B35386CA195",
+    "ModifiedDate": "2014-08-08T00:00:00"
+  },
+  {
+    "ProductId": 364,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 6,
+    "Quantity": 326,
+    "rowguid": "85014570-7BC6-4553-B8F5-40009658E395",
+    "ModifiedDate": "2014-08-08T00:00:00"
+  },
+  {
+    "ProductId": 365,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 14,
+    "Quantity": 411,
+    "rowguid": "517E8517-442E-4498-BFFE-6ED02467EECE",
+    "ModifiedDate": "2014-08-08T00:00:00"
+  },
+  {
+    "ProductId": 365,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 7,
+    "Quantity": 691,
+    "rowguid": "F7E2000A-42BC-4763-B78E-B8DEB7AEE3AF",
+    "ModifiedDate": "2014-08-08T00:00:00"
+  },
+  {
+    "ProductId": 365,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 7,
+    "Quantity": 619,
+    "rowguid": "84066D8C-DECE-401E-8E3B-8513DB83BA0E",
+    "ModifiedDate": "2014-08-08T00:00:00"
+  },
+  {
+    "ProductId": 366,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 15,
+    "Quantity": 318,
+    "rowguid": "9CFE6D84-71ED-4032-88B4-1B0920740597",
+    "ModifiedDate": "2014-07-28T00:00:00"
+  },
+  {
+    "ProductId": 366,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 8,
+    "Quantity": 299,
+    "rowguid": "09EB5C91-F9C3-4C08-9DD4-7B1B5E8B54BB",
+    "ModifiedDate": "2014-07-28T00:00:00"
+  },
+  {
+    "ProductId": 366,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 8,
+    "Quantity": 412,
+    "rowguid": "DF23C794-808E-417D-953B-4499F97A8768",
+    "ModifiedDate": "2014-07-28T00:00:00"
+  },
+  {
+    "ProductId": 367,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 16,
+    "Quantity": 643,
+    "rowguid": "5F1C3630-0C24-433A-8CF3-40F4B40606DB",
+    "ModifiedDate": "2014-07-28T00:00:00"
+  },
+  {
+    "ProductId": 367,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 9,
+    "Quantity": 689,
+    "rowguid": "70153711-7AAF-4DA3-993D-9FCE9CF137CB",
+    "ModifiedDate": "2014-07-28T00:00:00"
+  },
+  {
+    "ProductId": 367,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 9,
+    "Quantity": 569,
+    "rowguid": "2CD85F13-0B80-4312-AFBE-750362C45F34",
+    "ModifiedDate": "2014-07-28T00:00:00"
+  },
+  {
+    "ProductId": 368,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 17,
+    "Quantity": 369,
+    "rowguid": "ABF23795-41AB-4E61-9697-725825F2C0E3",
+    "ModifiedDate": "2014-07-28T00:00:00"
+  },
+  {
+    "ProductId": 368,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 10,
+    "Quantity": 360,
+    "rowguid": "A693AA01-3638-452C-ABF8-F50552BE92D9",
+    "ModifiedDate": "2014-07-28T00:00:00"
+  },
+  {
+    "ProductId": 368,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 10,
+    "Quantity": 374,
+    "rowguid": "35CC6156-AE35-4251-9856-BF15DB9ED147",
+    "ModifiedDate": "2014-07-28T00:00:00"
+  },
+  {
+    "ProductId": 369,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 18,
+    "Quantity": 363,
+    "rowguid": "952F0127-CB2A-4FFB-90CB-E92EB69E7498",
+    "ModifiedDate": "2014-07-28T00:00:00"
+  },
+  {
+    "ProductId": 369,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 11,
+    "Quantity": 353,
+    "rowguid": "79A3D625-139B-4A85-BF48-5C5405E5CAC6",
+    "ModifiedDate": "2014-07-28T00:00:00"
+  },
+  {
+    "ProductId": 369,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 11,
+    "Quantity": 368,
+    "rowguid": "46CA8287-B665-444D-80B1-2D4AFCA5C039",
+    "ModifiedDate": "2014-07-28T00:00:00"
+  },
+  {
+    "ProductId": 370,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 19,
+    "Quantity": 252,
+    "rowguid": "6A2188AF-2B6F-4D9B-917E-86C78968A293",
+    "ModifiedDate": "2014-08-03T00:00:00"
+  },
+  {
+    "ProductId": 370,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 12,
+    "Quantity": 155,
+    "rowguid": "D9FE0218-5528-4001-B11D-AA39001C3297",
+    "ModifiedDate": "2014-08-03T00:00:00"
+  },
+  {
+    "ProductId": 370,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 12,
+    "Quantity": 476,
+    "rowguid": "A4937BA2-AC13-4BDF-BF6F-75A94B3408AA",
+    "ModifiedDate": "2014-08-03T00:00:00"
+  },
+  {
+    "ProductId": 371,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 20,
+    "Quantity": 585,
+    "rowguid": "ACBB836B-9CCB-4A59-887B-394899FBA961",
+    "ModifiedDate": "2014-08-03T00:00:00"
+  },
+  {
+    "ProductId": 371,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 13,
+    "Quantity": 649,
+    "rowguid": "DA646C40-BEF6-4855-BDF3-BA1C29907B99",
+    "ModifiedDate": "2014-08-03T00:00:00"
+  },
+  {
+    "ProductId": 371,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 13,
+    "Quantity": 547,
+    "rowguid": "FC7E0E74-3314-4F38-89B1-E809C2E518C7",
+    "ModifiedDate": "2014-08-03T00:00:00"
+  },
+  {
+    "ProductId": 372,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 21,
+    "Quantity": 281,
+    "rowguid": "44970271-6E78-4913-96FB-C000CA9BE1F7",
+    "ModifiedDate": "2014-08-03T00:00:00"
+  },
+  {
+    "ProductId": 372,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 14,
+    "Quantity": 344,
+    "rowguid": "68466DF2-9832-4A64-9645-6FA5783A1F97",
+    "ModifiedDate": "2014-08-03T00:00:00"
+  },
+  {
+    "ProductId": 372,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 14,
+    "Quantity": 272,
+    "rowguid": "4679584B-36E7-4292-B2D4-540EB0BAA4FF",
+    "ModifiedDate": "2014-08-03T00:00:00"
+  },
+  {
+    "ProductId": 373,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 22,
+    "Quantity": 284,
+    "rowguid": "E95FDB19-5E04-4F6F-B4AC-BEC51F93004C",
+    "ModifiedDate": "2014-08-08T00:00:00"
+  },
+  {
+    "ProductId": 373,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 15,
+    "Quantity": 347,
+    "rowguid": "F888A98F-2614-4AC6-AF4C-0BC0B0E87661",
+    "ModifiedDate": "2014-08-08T00:00:00"
+  },
+  {
+    "ProductId": 373,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 15,
+    "Quantity": 275,
+    "rowguid": "4EFF169F-6B4D-4D55-BC97-90A5FCF3C9D6",
+    "ModifiedDate": "2014-08-08T00:00:00"
+  },
+  {
+    "ProductId": 374,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 23,
+    "Quantity": 288,
+    "rowguid": "7E32714A-875C-4446-A94E-26CA13F33B58",
+    "ModifiedDate": "2014-08-08T00:00:00"
+  },
+  {
+    "ProductId": 374,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 16,
+    "Quantity": 350,
+    "rowguid": "8A8F612F-A214-4AA0-AE77-F0AB1518C29D",
+    "ModifiedDate": "2014-08-08T00:00:00"
+  },
+  {
+    "ProductId": 374,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 16,
+    "Quantity": 278,
+    "rowguid": "5926BFE2-BF96-469E-BBDD-7217FAAE18C5",
+    "ModifiedDate": "2014-08-08T00:00:00"
+  },
+  {
+    "ProductId": 375,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 24,
+    "Quantity": 291,
+    "rowguid": "4BD22B4E-4B98-499D-B3A2-A5D848A93B9F",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 375,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 17,
+    "Quantity": 353,
+    "rowguid": "708E8581-B834-4122-B095-DCADA0A33139",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 375,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 17,
+    "Quantity": 281,
+    "rowguid": "29695D30-491F-4125-86DE-ACF27267C6FD",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 376,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 25,
+    "Quantity": 585,
+    "rowguid": "9117D3DD-C5FC-4274-826B-6A1E018592E7",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 376,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 18,
+    "Quantity": 649,
+    "rowguid": "59B30EE5-AA05-4069-914A-01A4860DACCC",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 376,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 18,
+    "Quantity": 547,
+    "rowguid": "CFD04477-1D95-4065-AD38-7261F8267D24",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 377,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 26,
+    "Quantity": 249,
+    "rowguid": "64451B09-A02D-4A97-97E7-3FD1F603656C",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 377,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 19,
+    "Quantity": 299,
+    "rowguid": "AE60C83A-108B-439E-87CC-F209F0F734F1",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 377,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 19,
+    "Quantity": 393,
+    "rowguid": "D4F21A3B-F52F-4C25-A3DB-07450393A97E",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 378,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 27,
+    "Quantity": 244,
+    "rowguid": "7F9DE9EA-C846-4941-8D0B-67BF96CF3ECF",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 378,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 20,
+    "Quantity": 294,
+    "rowguid": "BA32E523-8A33-4721-8EDA-F8B7FBB66F84",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 378,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 20,
+    "Quantity": 388,
+    "rowguid": "403788EA-0FB8-4A35-95A5-6FAD3BA02B5F",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 379,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 28,
+    "Quantity": 323,
+    "rowguid": "426D1C6B-0C59-42D4-8D48-8D62BBD19532",
+    "ModifiedDate": "2014-07-19T00:00:00"
+  },
+  {
+    "ProductId": 379,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 21,
+    "Quantity": 897,
+    "rowguid": "78120DF1-86F2-4B14-B0D4-782FA1FDF229",
+    "ModifiedDate": "2014-07-19T00:00:00"
+  },
+  {
+    "ProductId": 379,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 21,
+    "Quantity": 691,
+    "rowguid": "D94ABA0D-56F0-4FBD-BC2C-1917C8BEC2DD",
+    "ModifiedDate": "2014-07-19T00:00:00"
+  },
+  {
+    "ProductId": 380,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 29,
+    "Quantity": 156,
+    "rowguid": "7AAE8563-ADD3-47A3-8D6D-D20A9EC019B5",
+    "ModifiedDate": "2014-07-25T00:00:00"
+  },
+  {
+    "ProductId": 380,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 22,
+    "Quantity": 264,
+    "rowguid": "9FDE5EBA-17E5-4A45-A8E7-BA45AAC01314",
+    "ModifiedDate": "2014-07-25T00:00:00"
+  },
+  {
+    "ProductId": 380,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 22,
+    "Quantity": 350,
+    "rowguid": "2940C078-3E2B-4151-A6D5-61713F51672C",
+    "ModifiedDate": "2014-07-25T00:00:00"
+  },
+  {
+    "ProductId": 381,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 30,
+    "Quantity": 163,
+    "rowguid": "87B51434-9D2D-4491-BD93-5D7C38C2305E",
+    "ModifiedDate": "2014-07-25T00:00:00"
+  },
+  {
+    "ProductId": 381,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 23,
+    "Quantity": 270,
+    "rowguid": "F7583DF4-5C0C-4DB3-BD31-1BB00FE8D6C2",
+    "ModifiedDate": "2014-07-25T00:00:00"
+  },
+  {
+    "ProductId": 381,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 23,
+    "Quantity": 356,
+    "rowguid": "9ACDB34C-5342-472F-A185-904EAE6D9113",
+    "ModifiedDate": "2014-07-25T00:00:00"
+  },
+  {
+    "ProductId": 382,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 31,
+    "Quantity": 169,
+    "rowguid": "2D6D664E-2220-49E2-A263-4C53BE5C2065",
+    "ModifiedDate": "2014-07-31T00:00:00"
+  },
+  {
+    "ProductId": 382,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 24,
+    "Quantity": 276,
+    "rowguid": "9E0934F9-7BA9-4DEF-B901-DFBA82C75C5D",
+    "ModifiedDate": "2014-07-31T00:00:00"
+  },
+  {
+    "ProductId": 382,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 24,
+    "Quantity": 363,
+    "rowguid": "288103E3-3B2C-437C-B350-98F3126CDF6D",
+    "ModifiedDate": "2014-07-31T00:00:00"
+  },
+  {
+    "ProductId": 383,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 32,
+    "Quantity": 587,
+    "rowguid": "8FF37375-BDD1-44B8-8085-8FBCBF59B061",
+    "ModifiedDate": "2014-07-31T00:00:00"
+  },
+  {
+    "ProductId": 383,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 25,
+    "Quantity": 676,
+    "rowguid": "1BF6A76B-16C5-44D6-8C8F-BA0458FBEEC0",
+    "ModifiedDate": "2014-07-31T00:00:00"
+  },
+  {
+    "ProductId": 383,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 25,
+    "Quantity": 638,
+    "rowguid": "F21E0CED-EBB8-4298-A5D2-B4C86019FD3D",
+    "ModifiedDate": "2014-07-31T00:00:00"
+  },
+  {
+    "ProductId": 384,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 33,
+    "Quantity": 299,
+    "rowguid": "17080020-ED82-44D6-BC22-70D48FCB8010",
+    "ModifiedDate": "2014-07-31T00:00:00"
+  },
+  {
+    "ProductId": 384,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 26,
+    "Quantity": 217,
+    "rowguid": "D70C97EA-BA23-4B1D-9B94-CB8DA7420B08",
+    "ModifiedDate": "2014-07-31T00:00:00"
+  },
+  {
+    "ProductId": 384,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 26,
+    "Quantity": 304,
+    "rowguid": "8EF1BD2A-DBAA-4A4D-82E6-8CA69A67F2C1",
+    "ModifiedDate": "2014-07-31T00:00:00"
+  },
+  {
+    "ProductId": 385,
+    "LocationId": 1,
+    "Shelf": "C",
+    "Bin": 34,
+    "Quantity": 619,
+    "rowguid": "B2E01D6B-62F3-4731-B05C-B3C726300AD0",
+    "ModifiedDate": "2014-07-31T00:00:00"
+  },
+  {
+    "ProductId": 385,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 27,
+    "Quantity": 526,
+    "rowguid": "63C7FAF1-9573-4A7F-B9BB-CE0D5999ABBD",
+    "ModifiedDate": "2014-07-31T00:00:00"
+  },
+  {
+    "ProductId": 385,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 27,
+    "Quantity": 633,
+    "rowguid": "2AF00B07-8F20-41B4-9141-FACC338D46EA",
+    "ModifiedDate": "2014-07-31T00:00:00"
+  },
+  {
+    "ProductId": 386,
+    "LocationId": 1,
+    "Shelf": "D",
+    "Bin": 1,
+    "Quantity": 148,
+    "rowguid": "2BB4D4D9-B826-4A68-8A81-CBDDF6DD8847",
+    "ModifiedDate": "2014-08-05T00:00:00"
+  },
+  {
+    "ProductId": 386,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 28,
+    "Quantity": 192,
+    "rowguid": "C5BCD527-544A-4C25-9091-D71CE3B6F481",
+    "ModifiedDate": "2014-08-05T00:00:00"
+  },
+  {
+    "ProductId": 386,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 28,
+    "Quantity": 385,
+    "rowguid": "52A0BC53-3DB4-4D59-937E-D27B88EAE7ED",
+    "ModifiedDate": "2014-08-05T00:00:00"
+  },
+  {
+    "ProductId": 387,
+    "LocationId": 1,
+    "Shelf": "D",
+    "Bin": 2,
+    "Quantity": 524,
+    "rowguid": "C3F68247-C17D-4C33-B932-51845CE15B41",
+    "ModifiedDate": "2014-08-05T00:00:00"
+  },
+  {
+    "ProductId": 387,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 29,
+    "Quantity": 710,
+    "rowguid": "6B8A8F43-0EA9-419A-BB6A-1880F396F8BA",
+    "ModifiedDate": "2014-08-05T00:00:00"
+  },
+  {
+    "ProductId": 387,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 29,
+    "Quantity": 654,
+    "rowguid": "0C6D6619-80DF-414E-90CF-D16CF513762A",
+    "ModifiedDate": "2014-08-05T00:00:00"
+  },
+  {
+    "ProductId": 388,
+    "LocationId": 1,
+    "Shelf": "D",
+    "Bin": 3,
+    "Quantity": 292,
+    "rowguid": "5CD35680-EA12-4299-B8A5-C2C34A1C1B2D",
+    "ModifiedDate": "2014-08-05T00:00:00"
+  },
+  {
+    "ProductId": 388,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 30,
+    "Quantity": 140,
+    "rowguid": "ADB0E9A5-3E3B-4D32-84A4-DCABB4800B99",
+    "ModifiedDate": "2014-08-05T00:00:00"
+  },
+  {
+    "ProductId": 388,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 30,
+    "Quantity": 366,
+    "rowguid": "FB84C5FB-1F0A-430A-B0A7-60B5A6039459",
+    "ModifiedDate": "2014-08-05T00:00:00"
+  },
+  {
+    "ProductId": 389,
+    "LocationId": 1,
+    "Shelf": "D",
+    "Bin": 4,
+    "Quantity": 657,
+    "rowguid": "1BC79480-0BD2-406F-A8BC-0044B056BFF1",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 389,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 31,
+    "Quantity": 691,
+    "rowguid": "53E256E6-3196-4632-A449-265998C40575",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 389,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 31,
+    "Quantity": 460,
+    "rowguid": "E7BFF7C6-0C4E-4739-81DC-B1343FCF0AE6",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 390,
+    "LocationId": 1,
+    "Shelf": "D",
+    "Bin": 5,
+    "Quantity": 292,
+    "rowguid": "A9B93FBD-BCDE-4ED6-BFB3-1E2F9A970F29",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 390,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 32,
+    "Quantity": 140,
+    "rowguid": "F8867B2B-1A45-40E5-AE45-E7179B1CF0B6",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 390,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 32,
+    "Quantity": 366,
+    "rowguid": "9983EEA3-D2E9-466B-8A45-9DCBA1505CD0",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 391,
+    "LocationId": 1,
+    "Shelf": "D",
+    "Bin": 6,
+    "Quantity": 296,
+    "rowguid": "214CD58D-24F1-4937-B06A-855C53E17511",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 391,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 33,
+    "Quantity": 144,
+    "rowguid": "AAAD4A7D-9A70-4D16-9DE2-46D82415B7EF",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 391,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 33,
+    "Quantity": 369,
+    "rowguid": "E3F44CA3-8527-45F9-91F8-1D863E1AE757",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 392,
+    "LocationId": 1,
+    "Shelf": "D",
+    "Bin": 7,
+    "Quantity": 299,
+    "rowguid": "E6726B0D-1F11-40F9-890B-4BEA7C2384F6",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 392,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 34,
+    "Quantity": 147,
+    "rowguid": "8A1608D2-8C67-44BC-81A2-41FA849AF519",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 392,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 34,
+    "Quantity": 372,
+    "rowguid": "01545F11-5822-43E1-821C-BBE6C3D3F0C9",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 393,
+    "LocationId": 1,
+    "Shelf": "D",
+    "Bin": 8,
+    "Quantity": 603,
+    "rowguid": "CE7EDF53-F13D-45E7-8BCD-707C4B53E1C5",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 393,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 35,
+    "Quantity": 780,
+    "rowguid": "CFD67534-3382-43D6-9DE3-5A275D809EA3",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 393,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 35,
+    "Quantity": 497,
+    "rowguid": "AEF7AC8C-D595-4DFB-B41E-9536FED7A993",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 394,
+    "LocationId": 1,
+    "Shelf": "D",
+    "Bin": 9,
+    "Quantity": 302,
+    "rowguid": "72090DAE-C90E-4B90-B752-E7518C177BB2",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 394,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 36,
+    "Quantity": 150,
+    "rowguid": "D77FDAE7-048D-4EE9-BE37-42EB722C8117",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 394,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 36,
+    "Quantity": 459,
+    "rowguid": "3A5BE20F-ECB6-45B2-A948-98C47BECE24C",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 395,
+    "LocationId": 1,
+    "Shelf": "D",
+    "Bin": 10,
+    "Quantity": 281,
+    "rowguid": "ABF6B89A-1931-4179-B851-39A49CD83FFF",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 395,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 37,
+    "Quantity": 355,
+    "rowguid": "72D6C080-9F91-4DAC-8E7A-EE4161947A65",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 395,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 37,
+    "Quantity": 148,
+    "rowguid": "F0AB1A66-42BA-4B10-9E75-61E0E6FD8463",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 396,
+    "LocationId": 1,
+    "Shelf": "D",
+    "Bin": 11,
+    "Quantity": 636,
+    "rowguid": "290EF0F5-E1BB-417A-A8D8-1D5E25E791FC",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 396,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 38,
+    "Quantity": 585,
+    "rowguid": "F7225878-8A03-4467-8184-C81A8F9BC451",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 396,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 38,
+    "Quantity": 603,
+    "rowguid": "7B36C058-DC0C-4404-94A2-700E6EEB7DE9",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 397,
+    "LocationId": 1,
+    "Shelf": "D",
+    "Bin": 12,
+    "Quantity": 339,
+    "rowguid": "F38A392F-DF6E-4B83-AAAF-44FCA31F2443",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 397,
+    "LocationId": 6,
+    "Shelf": "R",
+    "Bin": 39,
+    "Quantity": 550,
+    "rowguid": "C5C52BC6-895C-4900-A4D6-9699DB354C9D",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 397,
+    "LocationId": 50,
+    "Shelf": "E",
+    "Bin": 39,
+    "Quantity": 763,
+    "rowguid": "DE7CF261-ED7A-4B59-B06E-5AAA930120FC",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 398,
+    "LocationId": 5,
+    "Shelf": "B",
+    "Bin": 1,
+    "Quantity": 372,
+    "rowguid": "5C40B94F-9012-4610-A30E-614E09B73790",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 398,
+    "LocationId": 10,
+    "Shelf": "B",
+    "Bin": 4,
+    "Quantity": 404,
+    "rowguid": "1D6C48D5-8351-49C1-988C-5B54C8FC19F2",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 398,
+    "LocationId": 20,
+    "Shelf": "A",
+    "Bin": 3,
+    "Quantity": 550,
+    "rowguid": "BE99281E-BA29-4E3B-8CEB-40EAB801E74E",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 399,
+    "LocationId": 5,
+    "Shelf": "B",
+    "Bin": 2,
+    "Quantity": 366,
+    "rowguid": "41F877C5-B77C-4F3E-9DE1-E0065248FF2E",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 399,
+    "LocationId": 10,
+    "Shelf": "B",
+    "Bin": 5,
+    "Quantity": 398,
+    "rowguid": "A36CAEB3-7E04-467E-A884-58A076A04844",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 399,
+    "LocationId": 20,
+    "Shelf": "A",
+    "Bin": 4,
+    "Quantity": 544,
+    "rowguid": "2519471E-47B8-40B0-AD78-1D9FA2E1922E",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 400,
+    "LocationId": 5,
+    "Shelf": "B",
+    "Bin": 3,
+    "Quantity": 260,
+    "rowguid": "0F2050D4-F337-49E1-AF12-1183E9ECAF68",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 400,
+    "LocationId": 10,
+    "Shelf": "B",
+    "Bin": 2,
+    "Quantity": 246,
+    "rowguid": "7DC91844-6C3C-4542-9781-78C256E14F40",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 400,
+    "LocationId": 20,
+    "Shelf": "A",
+    "Bin": 1,
+    "Quantity": 284,
+    "rowguid": "DCCA4742-7BBB-4308-8129-C1324F1C7DA3",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 401,
+    "LocationId": 5,
+    "Shelf": "B",
+    "Bin": 4,
+    "Quantity": 283,
+    "rowguid": "01700343-1C46-4765-845F-9196DAFE6B24",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 401,
+    "LocationId": 10,
+    "Shelf": "B",
+    "Bin": 3,
+    "Quantity": 212,
+    "rowguid": "15C1E385-25C0-480D-9B5E-D295483E1027",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 401,
+    "LocationId": 20,
+    "Shelf": "A",
+    "Bin": 2,
+    "Quantity": 302,
+    "rowguid": "1B7B59FF-CAC1-4ABD-9A54-C912BA36C5B8",
+    "ModifiedDate": "2008-03-31T00:00:00"
+  },
+  {
+    "ProductId": 402,
+    "LocationId": 1,
+    "Shelf": "F",
+    "Bin": 1,
+    "Quantity": 316,
+    "rowguid": "4A28A4C6-B3E2-47FA-867E-0AA76682EC90",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 402,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 3,
+    "Quantity": 353,
+    "rowguid": "0D8AB28E-40B9-4097-8686-97D9D4E182F7",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 402,
+    "LocationId": 50,
+    "Shelf": "T",
+    "Bin": 1,
+    "Quantity": 321,
+    "rowguid": "2F9D3973-E6E5-47DC-BC73-1E1B914141D4",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 403,
+    "LocationId": 1,
+    "Shelf": "F",
+    "Bin": 2,
+    "Quantity": 313,
+    "rowguid": "7B91307F-1F98-4514-BF52-F5CFA41128A3",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 403,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 4,
+    "Quantity": 350,
+    "rowguid": "641BBE33-C957-40D1-B4EC-22A940FC9487",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 403,
+    "LocationId": 50,
+    "Shelf": "T",
+    "Bin": 2,
+    "Quantity": 318,
+    "rowguid": "446D7922-61CA-4FEC-8584-0C8339ABF855",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 404,
+    "LocationId": 1,
+    "Shelf": "F",
+    "Bin": 3,
+    "Quantity": 310,
+    "rowguid": "0F610BFA-CEC6-4E2E-99EF-61A91042F6A1",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 404,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 5,
+    "Quantity": 347,
+    "rowguid": "C27D3114-C6DC-4D6F-814E-CB704B152F9D",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 404,
+    "LocationId": 50,
+    "Shelf": "T",
+    "Bin": 3,
+    "Quantity": 315,
+    "rowguid": "F511CF72-5B77-4A7B-B777-7F943EB95B1D",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 405,
+    "LocationId": 1,
+    "Shelf": "F",
+    "Bin": 4,
+    "Quantity": 307
+    ,
+    "rowguid": "6CBF468F-FC5C-4CE0-8E43-BF761624B7E2",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 405,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 6,
+    "Quantity": 344,
+    "rowguid": "9030EA68-2F28-43FC-AE2C-FDD57444FC2B",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 405,
+    "LocationId": 50,
+    "Shelf": "T",
+    "Bin": 4,
+    "Quantity": 312,
+    "rowguid": "A172A0D0-E4D2-40FF-828A-394EDC93CEC0",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 406,
+    "LocationId": 1,
+    "Shelf": "F",
+    "Bin": 5,
+    "Quantity": 304,
+    "rowguid": "5AE120BF-9489-4D02-9569-0AD129FB5611",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 406,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 7,
+    "Quantity": 340,
+    "rowguid": "977516D5-833C-426E-ADBA-6A4EA45E60A0",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 406,
+    "LocationId": 50,
+    "Shelf": "T",
+    "Bin": 5,
+    "Quantity": 308,
+    "rowguid": "AB0ED5C3-6A8D-4D65-8189-482345C0DD8E",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 407,
+    "LocationId": 1,
+    "Shelf": "F",
+    "Bin": 6,
+    "Quantity": 460,
+    "rowguid": "76523859-C463-4470-95E7-121C6349D07F",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 407,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 8,
+    "Quantity": 587,
+    "rowguid": "83FF6EFA-EBE6-4566-ACCB-732B98C89554",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 407,
+    "LocationId": 50,
+    "Shelf": "T",
+    "Bin": 6,
+    "Quantity": 625,
+    "rowguid": "223515B8-0201-45E3-8B14-0F73F2E84DF0",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 408,
+    "LocationId": 1,
+    "Shelf": "F",
+    "Bin": 7,
+    "Quantity": 417,
+    "rowguid": "AEBCFF82-AD40-492A-AD72-E7A68BB20EF1",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 408,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 9,
+    "Quantity": 344,
+    "rowguid": "6C83A526-E9FB-4ADA-84A3-C2085D12C29E",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 408,
+    "LocationId": 50,
+    "Shelf": "T",
+    "Bin": 7,
+    "Quantity": 296,
+    "rowguid": "1C4A5EE5-55B2-45F6-8F4B-A9A55B8375E2",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 409,
+    "LocationId": 1,
+    "Shelf": "F",
+    "Bin": 8,
+    "Quantity": 414,
+    "rowguid": "02272BF0-1F64-4EA9-B73D-8E2C6A1F05E2",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 409,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 10,
+    "Quantity": 340,
+    "rowguid": "9FFE546F-343F-4CF1-A165-C43BBF1FC0D8",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 409,
+    "LocationId": 50,
+    "Shelf": "T",
+    "Bin": 8,
+    "Quantity": 292,
+    "rowguid": "5BDD9DF8-3286-4F69-BD79-B731C7D13111",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 410,
+    "LocationId": 1,
+    "Shelf": "F",
+    "Bin": 9,
+    "Quantity": 411,
+    "rowguid": "59311C05-9BC0-4FF4-8810-97416188CF9B",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 410,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 11,
+    "Quantity": 337,
+    "rowguid": "C0B2029A-F0D6-4EFB-97FD-96428834A46B",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 410,
+    "LocationId": 50,
+    "Shelf": "T",
+    "Bin": 9,
+    "Quantity": 289,
+    "rowguid": "9CAB72DA-293C-499D-8612-5EC854F4B021",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 411,
+    "LocationId": 1,
+    "Shelf": "F",
+    "Bin": 10,
+    "Quantity": 603,
+    "rowguid": "9872C93F-C4AA-49BC-ADDE-81230134CD8D",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 411,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 12,
+    "Quantity": 552,
+    "rowguid": "9CB6E6AF-C5F7-48D6-AFCD-FDDC14AEC26C",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 411,
+    "LocationId": 50,
+    "Shelf": "T",
+    "Bin": 10,
+    "Quantity": 459,
+    "rowguid": "0F2194FC-D2EA-4DBB-819F-CA2C24122A01",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 412,
+    "LocationId": 1,
+    "Shelf": "F",
+    "Bin": 11,
+    "Quantity": 299,
+    "rowguid": "10EE3C79-2238-4FF6-8DC8-974D7FA5557D",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 412,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 13,
+    "Quantity": 321,
+    "rowguid": "F1F92CF8-627A-48E5-82BC-2EA3B58D991D",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 412,
+    "LocationId": 50,
+    "Shelf": "T",
+    "Bin": 11,
+    "Quantity": 156,
+    "rowguid": "C6DDFD7C-6B86-46E6-849C-63E5A84B8E06",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 413,
+    "LocationId": 1,
+    "Shelf": "F",
+    "Bin": 12,
+    "Quantity": 641,
+    "rowguid": "BC6DF6CD-AA94-45C9-AA74-110D339A4711",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 413,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 14,
+    "Quantity": 603,
+    "rowguid": "0EB6D655-FBD8-4565-B7E1-D069062FE50A",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 413,
+    "LocationId": 50,
+    "Shelf": "T",
+    "Bin": 12,
+    "Quantity": 459,
+    "rowguid": "A5C4352D-1103-433C-B801-1E49C53A5E8E",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 414,
+    "LocationId": 1,
+    "Shelf": "F",
+    "Bin": 13,
+    "Quantity": 427,
+    "rowguid": "24A9D4AF-EC4D-411C-982E-49A7DB4517AB",
+    "ModifiedDate": "2014-07-30T00:00:00"
+  },
+  {
+    "ProductId": 414,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 15,
+    "Quantity": 321,
+    "rowguid": "C9C50B9D-81F5-48C6-8C92-3AEC825DCC27",
+    "ModifiedDate": "2014-07-30T00:00:00"
+  },
+  {
+    "ProductId": 414,
+    "LocationId": 50,
+    "Shelf": "T",
+    "Bin": 13,
+    "Quantity": 371,
+    "rowguid": "333F9ECD-4933-4F5F-A820-4BCFBF657825",
+    "ModifiedDate": "2014-07-30T00:00:00"
+  },
+  {
+    "ProductId": 415,
+    "LocationId": 1,
+    "Shelf": "F",
+    "Bin": 14,
+    "Quantity": 422,
+    "rowguid": "6807ED12-C75D-4AE7-B031-13D7DE3BE0FE",
+    "ModifiedDate": "2014-07-30T00:00:00"
+  },
+  {
+    "ProductId": 415,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 16,
+    "Quantity": 316,
+    "rowguid": "D523AFAF-1A7B-4F2C-B9E7-2C6EAD6E3035",
+    "ModifiedDate": "2014-07-30T00:00:00"
+  },
+  {
+    "ProductId": 415,
+    "LocationId": 50,
+    "Shelf": "T",
+    "Bin": 14,
+    "Quantity": 366,
+    "rowguid": "61712E05-6EE1-4511-8C4D-EC89265250F5",
+    "ModifiedDate": "2014-07-30T00:00:00"
+  },
+  {
+    "ProductId": 416,
+    "LocationId": 1,
+    "Shelf": "F",
+    "Bin": 15,
+    "Quantity": 417,
+    "rowguid": "9C9D0459-5AC6-4D54-82B4-6775D283210C",
+    "ModifiedDate": "2014-07-30T00:00:00"
+  },
+  {
+    "ProductId": 416,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 17,
+    "Quantity": 312,
+    "rowguid": "B0B1F1E0-A2EF-4BE0-A63F-E1BF2BDA3362",
+    "ModifiedDate": "2014-07-30T00:00:00"
+  },
+  {
+    "ProductId": 416,
+    "LocationId": 50,
+    "Shelf": "T",
+    "Bin": 15,
+    "Quantity": 361,
+    "rowguid": "253DB65C-4833-4766-BC10-265984F6F9CB",
+    "ModifiedDate": "2014-07-30T00:00:00"
+  },
+  {
+    "ProductId": 417,
+    "LocationId": 1,
+    "Shelf": "F",
+    "Bin": 16,
+    "Quantity": 572,
+    "rowguid": "8BDEE515-541E-41A6-A6F7-BF40D2173AC4",
+    "ModifiedDate": "2014-08-04T00:00:00"
+  },
+  {
+    "ProductId": 417,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 18,
+    "Quantity": 627,
+    "rowguid": "029B2A2E-2D6A-4C38-B38B-A986A4DF2452",
+    "ModifiedDate": "2014-08-04T00:00:00"
+  },
+  {
+    "ProductId": 417,
+    "LocationId": 50,
+    "Shelf": "T",
+    "Bin": 16,
+    "Quantity": 516,
+    "rowguid": "84D6A6A6-1B31-48E6-A5EF-8515B8212CF6",
+    "ModifiedDate": "2014-08-04T00:00:00"
+  },
+  {
+    "ProductId": 418,
+    "LocationId": 1,
+    "Shelf": "F",
+    "Bin": 17,
+    "Quantity": 248,
+    "rowguid": "065FB4A3-A7EF-4AC5-9510-CE89317719B1",
+    "ModifiedDate": "2014-08-04T00:00:00"
+  },
+  {
+    "ProductId": 418,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 19,
+    "Quantity": 283,
+    "rowguid": "3A260D71-DD89-4D5E-9271-7A1CEAB13395",
+    "ModifiedDate": "2014-08-04T00:00:00"
+  },
+  {
+    "ProductId": 418,
+    "LocationId": 50,
+    "Shelf": "T",
+    "Bin": 17,
+    "Quantity": 388,
+    "rowguid": "3A9618D7-4F46-47A6-A224-78A4240CF165",
+    "ModifiedDate": "2014-08-04T00:00:00"
+  },
+  {
+    "ProductId": 419,
+    "LocationId": 1,
+    "Shelf": "F",
+    "Bin": 18,
+    "Quantity": 246,
+    "rowguid": "B81B94B3-9E2F-4675-AE20-AC358B46A455",
+    "ModifiedDate": "2014-08-04T00:00:00"
+  },
+  {
+    "ProductId": 419,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 20,
+    "Quantity": 281,
+    "rowguid": "91663A44-EA3B-4C72-955D-DACCC2CB74AA",
+    "ModifiedDate": "2014-08-04T00:00:00"
+  },
+  {
+    "ProductId": 419,
+    "LocationId": 50,
+    "Shelf": "T",
+    "Bin": 18,
+    "Quantity": 387,
+    "rowguid": "86E5E622-E1FB-4308-8DDF-2C6EE02E45E7",
+    "ModifiedDate": "2014-08-04T00:00:00"
+  },
+  {
+    "ProductId": 420,
+    "LocationId": 1,
+    "Shelf": "F",
+    "Bin": 19,
+    "Quantity": 244,
+    "rowguid": "166B592E-B6BE-44B1-AA69-41F2D31DCA73",
+    "ModifiedDate": "2014-08-04T00:00:00"
+  },
+  {
+    "ProductId": 420,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 21,
+    "Quantity": 280,
+    "rowguid": "EAF15BAE-FBA9-42D6-B37C-B512F5E78C7E",
+    "ModifiedDate": "2014-08-04T00:00:00"
+  },
+  {
+    "ProductId": 420,
+    "LocationId": 50,
+    "Shelf": "T",
+    "Bin": 19,
+    "Quantity": 385,
+    "rowguid": "A81D45EA-B957-4835-A47D-09B57A8D2FDE",
+    "ModifiedDate": "2014-08-04T00:00:00"
+  },
+  {
+    "ProductId": 421,
+    "LocationId": 1,
+    "Shelf": "F",
+    "Bin": 20,
+    "Quantity": 243,
+    "rowguid": "54CC5882-B786-4E61-BDF5-808011295001",
+    "ModifiedDate": "2014-08-04T00:00:00"
+  },
+  {
+    "ProductId": 421,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 22,
+    "Quantity": 278,
+    "rowguid": "DCC01697-EE43-4F64-BC08-EDCA25EB8F16",
+    "ModifiedDate": "2014-08-04T00:00:00"
+  },
+  {
+    "ProductId": 421,
+    "LocationId": 50,
+    "Shelf": "T",
+    "Bin": 20,
+    "Quantity": 384,
+    "rowguid": "77E0026B-F62A-4E23-B8D9-D088F5321E9D",
+    "ModifiedDate": "2014-08-04T00:00:00"
+  },
+  {
+    "ProductId": 422,
+    "LocationId": 1,
+    "Shelf": "K",
+    "Bin": 1,
+    "Quantity": 620,
+    "rowguid": "B1A6EE01-FB3C-45A5-B5B1-46274213BA5B",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 422,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 23,
+    "Quantity": 515,
+    "rowguid": "4F5216D1-7EE9-4A1E-AFBC-2477D7D6EF45",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 422,
+    "LocationId": 50,
+    "Shelf": "T",
+    "Bin": 21,
+    "Quantity": 497,
+    "rowguid": "309003BD-8C77-42F1-8489-B22AC60AC940",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 423,
+    "LocationId": 1,
+    "Shelf": "K",
+    "Bin": 2,
+    "Quantity": 619,
+    "rowguid": "0A3219BB-74B2-4C85-8474-F6A4A5096A40",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 423,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 24,
+    "Quantity": 513,
+    "rowguid": "0B685703-951B-42A0-930A-705F7497E430",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 423,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 1,
+    "Quantity": 496,
+    "rowguid": "65A0613E-FFE1-4857-9BD6-76BFCBDA05C9",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 424,
+    "LocationId": 1,
+    "Shelf": "K",
+    "Bin": 3,
+    "Quantity": 617,
+    "rowguid": "CFE9B367-934E-4ADB-A58F-06DBB4FC02E6",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 424,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 25,
+    "Quantity": 512,
+    "rowguid": "70F516FF-5F50-4628-ADB3-79EC23D339BF",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 424,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 2,
+    "Quantity": 494,
+    "rowguid": "3A8CB523-D799-46EB-8EAE-BA7562610615",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 425,
+    "LocationId": 1,
+    "Shelf": "K",
+    "Bin": 4,
+    "Quantity": 616,
+    "rowguid": "4F52C183-B4A9-4A5E-852D-3BAC4FE10364",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 425,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 26,
+    "Quantity": 510,
+    "rowguid": "2E55D18C-5ED1-4BCE-9F4D-182C03A9114B",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 425,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 3,
+    "Quantity": 492,
+    "rowguid": "165A33B3-AC7F-4717-A451-9E2C96250799",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 426,
+    "LocationId": 1,
+    "Shelf": "K",
+    "Bin": 5,
+    "Quantity": 614,
+    "rowguid": "5A0B316A-A2EE-4E00-8FF9-99A1D3181E6D",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 426,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 27,
+    "Quantity": 508,
+    "rowguid": "806F5772-158D-4442-8BE6-2A9E35EB288B",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 426,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 4,
+    "Quantity": 491,
+    "rowguid": "CA1FED88-1BC8-487E-AF6B-BD156612B780",
+    "ModifiedDate": "2014-08-12T00:00:00"
+  },
+  {
+    "ProductId": 427,
+    "LocationId": 1,
+    "Shelf": "K",
+    "Bin": 6,
+    "Quantity": 612,
+    "rowguid": "EE3A9B1E-8CE3-4AD3-8731-9B0FF331D22D",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 427,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 28,
+    "Quantity": 507,
+    "rowguid": "ABFE1A52-43FB-409E-A76A-DF8642DFCC59",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 427,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 5,
+    "Quantity": 489,
+    "rowguid": "90A7E004-8BDB-40AE-98A0-6B756DCF7E32",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 428,
+    "LocationId": 1,
+    "Shelf": "K",
+    "Bin": 7,
+    "Quantity": 611,
+    "rowguid": "02D98068-7A9F-4D08-B8BC-A135495A8C42",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 428,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 29,
+    "Quantity": 505,
+    "rowguid": "66C31F3D-1470-4D19-BEE3-7B56B1841731",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 428,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 6,
+    "Quantity": 488,
+    "rowguid": "746A5CFA-178E-4045-B870-B1A8D5AFE693",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 429,
+    "LocationId": 1,
+    "Shelf": "K",
+    "Bin": 8,
+    "Quantity": 609,
+    "rowguid": "1DA04543-2C1D-4E32-8309-F122AF94D599",
+    "ModifiedDate": "2014-08-06T00:00:00"
+  },
+  {
+    "ProductId": 429,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 30,
+    "Quantity": 504,
+    "rowguid": "45F36D5D-9959-4601-9174-6DB78ECB24B5",
+    "ModifiedDate": "2014-08-06T00:00:00"
+  },
+  {
+    "ProductId": 429,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 7,
+    "Quantity": 486,
+    "rowguid": "615E3AE7-3A4C-4A8F-B6C4-310D19471F1F",
+    "ModifiedDate": "2014-08-06T00:00:00"
+  },
+  {
+    "ProductId": 430,
+    "LocationId": 1,
+    "Shelf": "K",
+    "Bin": 9,
+    "Quantity": 608,
+    "rowguid": "FA52E937-C81E-4B9B-8AAF-9B17B1E9E221",
+    "ModifiedDate": "2014-08-06T00:00:00"
+  },
+  {
+    "ProductId": 430,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 31,
+    "Quantity": 502,
+    "rowguid": "E4C5CF3A-DACF-41F2-AEAB-6ABA23F6FBCD",
+    "ModifiedDate": "2014-08-06T00:00:00"
+  },
+  {
+    "ProductId": 430,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 8,
+    "Quantity": 484,
+    "rowguid": "3C97AF79-E74C-47D8-B037-F0551018EE1C",
+    "ModifiedDate": "2014-08-06T00:00:00"
+  },
+  {
+    "ProductId": 431,
+    "LocationId": 1,
+    "Shelf": "K",
+    "Bin": 10,
+    "Quantity": 611,
+    "rowguid": "EF83378A-74B7-427C-A920-06580C15625A",
+    "ModifiedDate": "2014-08-06T00:00:00"
+  },
+  {
+    "ProductId": 431,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 32,
+    "Quantity": 505,
+    "rowguid": "8D949E7F-113B-4C9B-910E-07D20F8343E4",
+    "ModifiedDate": "2014-08-06T00:00:00"
+  },
+  {
+    "ProductId": 431,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 9,
+    "Quantity": 488,
+    "rowguid": "A59C4676-9D41-4736-A5FA-2D5D59777325",
+    "ModifiedDate": "2014-08-06T00:00:00"
+  },
+  {
+    "ProductId": 432,
+    "LocationId": 1,
+    "Shelf": "K",
+    "Bin": 11,
+    "Quantity": 614,
+    "rowguid": "8E88E613-7A21-4F85-911A-6C4561A80E16",
+    "ModifiedDate": "2014-08-06T00:00:00"
+  },
+  {
+    "ProductId": 432,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 33,
+    "Quantity": 508,
+    "rowguid": "12CC3875-07A1-4C8B-ABBF-8E62A6F6056F",
+    "ModifiedDate": "2014-08-06T00:00:00"
+  },
+  {
+    "ProductId": 432,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 10,
+    "Quantity": 491,
+    "rowguid": "3263D2C9-A9F5-4CF4-B5E3-B81BDC698C26",
+    "ModifiedDate": "2014-08-06T00:00:00"
+  },
+  {
+    "ProductId": 433,
+    "LocationId": 1,
+    "Shelf": "L",
+    "Bin": 1,
+    "Quantity": 617,
+    "rowguid": "2C79989B-6065-44F7-A5B7-658516BB0670",
+    "ModifiedDate": "2014-08-11T00:00:00"
+  },
+  {
+    "ProductId": 433,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 34,
+    "Quantity": 512,
+    "rowguid": "F0BEAABF-3DA2-4A6F-B6F7-80AEEAF86B72",
+    "ModifiedDate": "2014-08-11T00:00:00"
+  },
+  {
+    "ProductId": 433,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 11,
+    "Quantity": 494,
+    "rowguid": "45BAC6B1-DE5D-4CCC-A8ED-0AF8A5222403",
+    "ModifiedDate": "2014-08-11T00:00:00"
+  },
+  {
+    "ProductId": 434,
+    "LocationId": 1,
+    "Shelf": "L",
+    "Bin": 2,
+    "Quantity": 620,
+    "rowguid": "730FFA60-7617-4B4A-A157-96DEC935D340",
+    "ModifiedDate": "2014-08-11T00:00:00"
+  },
+  {
+    "ProductId": 434,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 35,
+    "Quantity": 515,
+    "rowguid": "C76EA25C-7D83-4D0E-A0C1-A4A61105673F",
+    "ModifiedDate": "2014-08-11T00:00:00"
+  },
+  {
+    "ProductId": 434,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 12,
+    "Quantity": 497,
+    "rowguid": "2CE641A9-6BBF-459C-965E-79A5673EC082",
+    "ModifiedDate": "2014-08-11T00:00:00"
+  },
+  {
+    "ProductId": 435,
+    "LocationId": 1,
+    "Shelf": "L",
+    "Bin": 3,
+    "Quantity": 624,
+    "rowguid": "A111BAEE-2267-4926-8287-51889A4A3244",
+    "ModifiedDate": "2014-08-11T00:00:00"
+  },
+  {
+    "ProductId": 435,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 36,
+    "Quantity": 518,
+    "rowguid": "79378E6B-713E-4470-A2D2-7F47816B51C8",
+    "ModifiedDate": "2014-08-11T00:00:00"
+  },
+  {
+    "ProductId": 435,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 13,
+    "Quantity": 500,
+    "rowguid": "BBB56309-E9EC-4CC8-972B-631B4DA70AC0",
+    "ModifiedDate": "2014-08-11T00:00:00"
+  },
+  {
+    "ProductId": 436,
+    "LocationId": 1,
+    "Shelf": "L",
+    "Bin": 4,
+    "Quantity": 627,
+    "rowguid": "E8D235A9-57E3-4539-902A-D1587FA70D79",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 436,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 37,
+    "Quantity": 521,
+    "rowguid": "37538D3D-1754-47F3-A843-435A6751CD59",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 436,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 14,
+    "Quantity": 504,
+    "rowguid": "E0DA77F8-EDA7-4308-A459-97F71FA0E845",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 437,
+    "LocationId": 1,
+    "Shelf": "L",
+    "Bin": 5,
+    "Quantity": 630,
+    "rowguid": "310726D7-9203-4CF8-A664-9F8055DB5BF7",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 437,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 38,
+    "Quantity": 524,
+    "rowguid": "28030A94-323C-440A-B516-DB48DB308E93",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 437,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 15,
+    "Quantity": 507,
+    "rowguid": "C2BDD324-5764-4DD6-AA17-743141089E3F",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 438,
+    "LocationId": 1,
+    "Shelf": "L",
+    "Bin": 6,
+    "Quantity": 633,
+    "rowguid": "E7AA0B5B-E281-4236-8451-4F2BE7C94092",
+    "ModifiedDate": "2014-07-24T00:00:00"
+  },
+  {
+    "ProductId": 438,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 39,
+    "Quantity": 528,
+    "rowguid": "F16E555C-0DE6-402E-A030-782267ED81C9",
+    "ModifiedDate": "2014-07-24T00:00:00"
+  },
+  {
+    "ProductId": 438,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 16,
+    "Quantity": 510,
+    "rowguid": "A0A4A2EF-BCC4-4790-87E7-90D7764F24D1",
+    "ModifiedDate": "2014-07-24T00:00:00"
+  },
+  {
+    "ProductId": 439,
+    "LocationId": 1,
+    "Shelf": "L",
+    "Bin": 7,
+    "Quantity": 636,
+    "rowguid": "7BCED1B1-D4FC-4E22-888E-D683F01A6AA3",
+    "ModifiedDate": "2014-07-24T00:00:00"
+  },
+  {
+    "ProductId": 439,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 40,
+    "Quantity": 531,
+    "rowguid": "A893BFEE-A048-49AC-A4E5-E83738DEFCA6",
+    "ModifiedDate": "2014-07-24T00:00:00"
+  },
+  {
+    "ProductId": 439,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 17,
+    "Quantity": 513,
+    "rowguid": "B9B38C6E-76BF-4570-8869-C36BD7A3D167",
+    "ModifiedDate": "2014-07-24T00:00:00"
+  },
+  {
+    "ProductId": 440,
+    "LocationId": 1,
+    "Shelf": "L",
+    "Bin": 8,
+    "Quantity": 640,
+    "rowguid": "21F25C10-15D8-4A35-8622-70F1A609F94B",
+    "ModifiedDate": "2014-07-30T00:00:00"
+  },
+  {
+    "ProductId": 440,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 41,
+    "Quantity": 534,
+    "rowguid": "2E3B8F70-5823-4002-85E8-8934AFF487E2",
+    "ModifiedDate": "2014-07-30T00:00:00"
+  },
+  {
+    "ProductId": 440,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 18,
+    "Quantity": 516,
+    "rowguid": "C2EC33E5-3DC5-41AB-AD97-399D385D6CB3",
+    "ModifiedDate": "2014-07-30T00:00:00"
+  },
+  {
+    "ProductId": 441,
+    "LocationId": 1,
+    "Shelf": "L",
+    "Bin": 9,
+    "Quantity": 635,
+    "rowguid": "03CFAD0F-C227-4579-99BE-E8F31E753103",
+    "ModifiedDate": "2014-07-30T00:00:00"
+  },
+  {
+    "ProductId": 441,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 42,
+    "Quantity": 529,
+    "rowguid": "02525804-006E-4CC2-A644-A66C826914B4",
+    "ModifiedDate": "2014-07-30T00:00:00"
+  },
+  {
+    "ProductId": 441,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 19,
+    "Quantity": 512,
+    "rowguid": "3ACE5FEE-309D-4374-8AC4-9B1053BB2130",
+    "ModifiedDate": "2014-07-30T00:00:00"
+  },
+  {
+    "ProductId": 442,
+    "LocationId": 1,
+    "Shelf": "L",
+    "Bin": 10,
+    "Quantity": 630,
+    "rowguid": "9D45B955-0C3E-4A5B-8DAC-B449A70F46D5",
+    "ModifiedDate": "2014-07-30T00:00:00"
+  },
+  {
+    "ProductId": 442,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 43,
+    "Quantity": 524,
+    "rowguid": "01B17F75-48BA-4F6E-B266-664734B7B924",
+    "ModifiedDate": "2014-07-30T00:00:00"
+  },
+  {
+    "ProductId": 442,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 20,
+    "Quantity": 507,
+    "rowguid": "1D595C46-49FF-439A-B8D4-F86113ED5EAF",
+    "ModifiedDate": "2014-07-30T00:00:00"
+  },
+  {
+    "ProductId": 443,
+    "LocationId": 1,
+    "Shelf": "L",
+    "Bin": 11,
+    "Quantity": 625,
+    "rowguid": "53DD8159-9863-446E-9352-0FBABF08898D",
+    "ModifiedDate": "2014-08-04T00:00:00"
+  },
+  {
+    "ProductId": 443,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 44,
+    "Quantity": 520,
+    "rowguid": "276F7119-7483-459E-A6C3-2DF6B8801C84",
+    "ModifiedDate": "2014-08-04T00:00:00"
+  },
+  {
+    "ProductId": 443,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 21,
+    "Quantity": 502,
+    "rowguid": "1FFF7F27-7A93-4364-AF4B-5F761857352A",
+    "ModifiedDate": "2014-08-04T00:00:00"
+  },
+  {
+    "ProductId": 444,
+    "LocationId": 1,
+    "Shelf": "L",
+    "Bin": 12,
+    "Quantity": 620,
+    "rowguid": "D736E942-D015-42D8-A3AD-8595D93FD92F",
+    "ModifiedDate": "2014-08-04T00:00:00"
+  },
+  {
+    "ProductId": 444,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 45,
+    "Quantity": 515,
+    "rowguid": "4DE6A1EB-06BE-4D01-AC35-894404D282F0",
+    "ModifiedDate": "2014-08-04T00:00:00"
+  },
+  {
+    "ProductId": 444,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 22,
+    "Quantity": 497,
+    "rowguid": "FB6C4585-0563-4C15-B021-8039BE938A8C",
+    "ModifiedDate": "2014-08-04T00:00:00"
+  },
+  {
+    "ProductId": 445,
+    "LocationId": 1,
+    "Shelf": "H",
+    "Bin": 3,
+    "Quantity": 616,
+    "rowguid": "EB4F2A7B-BF1A-417E-AD5F-BC996FBF2725",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 445,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 46,
+    "Quantity": 510,
+    "rowguid": "953370D9-F166-486C-9455-A1EEEF84218C",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 445,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 23,
+    "Quantity": 492,
+    "rowguid": "CF3ADFA8-F900-42B7-A660-37B30C87AAE6",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 446,
+    "LocationId": 1,
+    "Shelf": "H",
+    "Bin": 4,
+    "Quantity": 611,
+    "rowguid": "D4CFB8E1-4651-4673-8DCC-362F442606C5",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 446,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 47,
+    "Quantity": 505,
+    "rowguid": "F58F510E-90E2-486F-B3D4-0C017C6EB2EC",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 446,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 24,
+    "Quantity": 488,
+    "rowguid": "1D51F20B-B4E3-44BF-83A4-E8BCAF6A0EEB",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 447,
+    "LocationId": 1,
+    "Shelf": "H",
+    "Bin": 5,
+    "Quantity": 606,
+    "rowguid": "ECC8A876-CB00-4079-A1F5-849199C1EDE9",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 447,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 48,
+    "Quantity": 500,
+    "rowguid": "AE2D642C-AB0D-4CE1-881E-CE2CD5FFF797",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 447,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 25,
+    "Quantity": 483,
+    "rowguid": "FD36B8AA-28E6-4B1E-9E87-469FC427FF4D",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 448,
+    "LocationId": 1,
+    "Shelf": "H",
+    "Bin": 6,
+    "Quantity": 601,
+    "rowguid": "2D045980-7E93-42EF-9F51-29513F4859AD",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 448,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 49,
+    "Quantity": 496,
+    "rowguid": "56AD65E1-04D4-4248-89FB-6027C28844FD",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 448,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 26,
+    "Quantity": 478,
+    "rowguid": "0824CA20-CA01-4320-9D08-6DCCD75040C3",
+    "ModifiedDate": "2014-08-09T00:00:00"
+  },
+  {
+    "ProductId": 449,
+    "LocationId": 1,
+    "Shelf": "H",
+    "Bin": 7,
+    "Quantity": 596,
+    "rowguid": "1FAB07D7-A1B8-44CB-B815-820C649B5A1A",
+    "ModifiedDate": "2014-07-27T00:00:00"
+  },
+  {
+    "ProductId": 449,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 50,
+    "Quantity": 491,
+    "rowguid": "7F8631BB-E073-40D4-A228-44192956BC03",
+    "ModifiedDate": "2014-07-27T00:00:00"
+  },
+  {
+    "ProductId": 449,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 27,
+    "Quantity": 473,
+    "rowguid": "CC26B5EF-F6CE-4A1C-BC88-60D6D00CA778",
+    "ModifiedDate": "2014-07-27T00:00:00"
+  },
+  {
+    "ProductId": 450,
+    "LocationId": 1,
+    "Shelf": "H",
+    "Bin": 8,
+    "Quantity": 592,
+    "rowguid": "BECBB6F8-9E74-47FB-88F9-FE1047C1A9CA",
+    "ModifiedDate": "2014-08-02T00:00:00"
+  },
+  {
+    "ProductId": 450,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 51,
+    "Quantity": 486,
+    "rowguid": "60B176FC-9041-4C31-BD87-DB8CEB1431B4",
+    "ModifiedDate": "2014-08-02T00:00:00"
+  },
+  {
+    "ProductId": 450,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 28,
+    "Quantity": 468,
+    "rowguid": "94547166-8BEB-4AB6-BBFE-21AEBA2AE77E",
+    "ModifiedDate": "2014-08-02T00:00:00"
+  },
+  {
+    "ProductId": 451,
+    "LocationId": 1,
+    "Shelf": "H",
+    "Bin": 9,
+    "Quantity": 595,
+    "rowguid": "8D54E1A6-2E2A-4BB9-86EF-FC1B80B2CC7B",
+    "ModifiedDate": "2014-08-02T00:00:00"
+  },
+  {
+    "ProductId": 451,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 52,
+    "Quantity": 489,
+    "rowguid": "8207B94F-7BC7-408F-B27F-A5ABD4DC5A3A",
+    "ModifiedDate": "2014-08-02T00:00:00"
+  },
+  {
+    "ProductId": 451,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 29,
+    "Quantity": 472,
+    "rowguid": "D4EFB693-CF65-4EA4-9EFF-B731AF88D13C",
+    "ModifiedDate": "2014-08-02T00:00:00"
+  },
+  {
+    "ProductId": 452,
+    "LocationId": 1,
+    "Shelf": "H",
+    "Bin": 10,
+    "Quantity": 598,
+    "rowguid": "5AC3FA47-4DA3-480E-8F8C-9C9C50ACAE47",
+    "ModifiedDate": "2014-08-02T00:00:00"
+  },
+  {
+    "ProductId": 452,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 53,
+    "Quantity": 492,
+    "rowguid": "FFDF35C4-3BED-460B-9821-26D51A95BAF6",
+    "ModifiedDate": "2014-08-02T00:00:00"
+  },
+  {
+    "ProductId": 452,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 30,
+    "Quantity": 475,
+    "rowguid": "A13CCA2D-03B3-474E-86FA-DB2A1C27D231",
+    "ModifiedDate": "2014-08-02T00:00:00"
+  },
+  {
+    "ProductId": 453,
+    "LocationId": 1,
+    "Shelf": "H",
+    "Bin": 11,
+    "Quantity": 601,
+    "rowguid": "F3FAC1D4-7609-44A0-BA12-B0A8F3025410",
+    "ModifiedDate": "2014-08-02T00:00:00"
+  },
+  {
+    "ProductId": 453,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 54,
+    "Quantity": 496,
+    "rowguid": "CAB945F5-DD54-43AD-88FD-A25C200E8ACC",
+    "ModifiedDate": "2014-08-02T00:00:00"
+  },
+  {
+    "ProductId": 453,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 31,
+    "Quantity": 478,
+    "rowguid": "7311DF42-8339-425E-9589-6BD31E1E971F",
+    "ModifiedDate": "2014-08-02T00:00:00"
+  },
+  {
+    "ProductId": 454,
+    "LocationId": 1,
+    "Shelf": "H",
+    "Bin": 12,
+    "Quantity": 604,
+    "rowguid": "A57D34F7-25B7-432A-988C-FADAD614CE89",
+    "ModifiedDate": "2014-08-02T00:00:00"
+  },
+  {
+    "ProductId": 454,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 55,
+    "Quantity": 499,
+    "rowguid": "1BB8FF62-7587-4686-A863-BD55FE20CB5E",
+    "ModifiedDate": "2014-08-02T00:00:00"
+  },
+  {
+    "ProductId": 454,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 32,
+    "Quantity": 481,
+    "rowguid": "4CDE0CC3-3428-460B-8111-987AB4DF6EF8",
+    "ModifiedDate": "2014-08-02T00:00:00"
+  },
+  {
+    "ProductId": 455,
+    "LocationId": 1,
+    "Shelf": "H",
+    "Bin": 13,
+    "Quantity": 608,
+    "rowguid": "8AEBEBE3-B29D-4376-BE79-C5095831B02E",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 455,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 56,
+    "Quantity": 502,
+    "rowguid": "B4EC8722-A9CB-4F5F-B233-5530A9760A3D",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 455,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 33,
+    "Quantity": 484,
+    "rowguid": "8D384B50-CBBA-4EB0-99D3-5448D8698106",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 456,
+    "LocationId": 1,
+    "Shelf": "H",
+    "Bin": 14,
+    "Quantity": 611,
+    "rowguid": "2E56D990-74A7-4129-9846-E5F806B6DE85",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 456,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 57,
+    "Quantity": 505,
+    "rowguid": "4C335B51-C1D0-476E-9EEA-6BB03A3EB43C",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 456,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 34,
+    "Quantity": 488,
+    "rowguid": "4DD252B2-8337-4268-9B89-CAC0D2236DAF",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 457,
+    "LocationId": 1,
+    "Shelf": "H",
+    "Bin": 15,
+    "Quantity": 614,
+    "rowguid": "1370408D-13B4-4C6C-850F-63A6163B2B3D",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 457,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 58,
+    "Quantity": 508,
+    "rowguid": "9EC6EFF6-BC45-4442-94E2-632C289D0D1B",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 457,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 35,
+    "Quantity": 491,
+    "rowguid": "13FAD7BF-527E-4429-921A-529474F0A179",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 458,
+    "LocationId": 1,
+    "Shelf": "H",
+    "Bin": 16,
+    "Quantity": 617,
+    "rowguid": "C6E8524F-B6B3-4EB6-B25E-2F604E79AE3D",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 458,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 59,
+    "Quantity": 512,
+    "rowguid": "BBDE3406-8255-449E-899E-BDB32AD2EBA3",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 458,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 36,
+    "Quantity": 494,
+    "rowguid": "CE01779C-632F-48AC-897A-7214DE4E3389",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 459,
+    "LocationId": 1,
+    "Shelf": "H",
+    "Bin": 17,
+    "Quantity": 620,
+    "rowguid": "557A3ED2-69F7-4601-868D-34F465B8C904",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 459,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 60,
+    "Quantity": 515,
+    "rowguid": "ED7EDCE2-86DD-4241-965A-1AF5E4CF18FD",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 459,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 37,
+    "Quantity": 497,
+    "rowguid": "6961F234-056A-4ABF-A1CC-674110152992",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 460,
+    "LocationId": 1,
+    "Shelf": "H",
+    "Bin": 18,
+    "Quantity": 624,
+    "rowguid": "46547C0B-79FB-41A6-8D11-A1591D44FF84",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 460,
+    "LocationId": 6,
+    "Shelf": "G",
+    "Bin": 61,
+    "Quantity": 518,
+    "rowguid": "C7E472D5-A7F6-4A22-95EE-09EC93DEE0B1",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 460,
+    "LocationId": 50,
+    "Shelf": "U",
+    "Bin": 38,
+    "Quantity": 500,
+    "rowguid": "B7F5A6B7-3763-4A3B-9E41-BA063B256778",
+    "ModifiedDate": "2014-08-07T00:00:00"
+  },
+  {
+    "ProductId": 461,
+    "LocationId": 1,
+    "Shelf": "G",
+    "Bin": 19,
+    "Quantity": 627,
+    "rowguid": "EDA01CEF-3B81-4D75-8670-40DB0E8AA961",
+    "ModifiedDate": "2014-07-18T00:00:00"
+  },
+  {
+    "ProductId": 461,
+    "LocationId": 6,
+    "Shelf": "H",
+    "Bin": 1,
+    "Quantity": 521,
+    "rowguid": "20E1C2CC-4FD4-4EC1-A159-929042EC47F6",
+    "ModifiedDate": "2014-07-18T00:00:00"
+  },
+  {
+    "ProductId": 461,
+    "LocationId": 50,
+    "Shelf": "K",
+    "Bin": 1,
+    "Quantity": 504,
+    "rowguid": "2D2984BC-582A-40C4-BB95-D9936A33D36E",
+    "ModifiedDate": "2014-07-18T00:00:00"
+  },
+  {
+    "ProductId": 462,
+    "LocationId": 1,
+    "Shelf": "G",
+    "Bin": 2,
+    "Quantity": 310,
+    "rowguid": "C3B6216E-6D48-4AB3-AD2F-EED611C2395B",
+    "ModifiedDate": "2014-08-11T00:00:00"
+  },
+  {
+    "ProductId": 462,
+    "LocationId": 6,
+    "Shelf": "H",
+    "Bin": 2,
+    "Quantity": 204,
+    "rowguid": "BA32112A-8F7E-4F19-8C15-DA0690A9CB40",
+    "ModifiedDate": "2014-08-11T00:00:00"
+  },
+  {
+    "ProductId": 462,
+    "LocationId": 50,
+    "Shelf": "K",
+    "Bin": 2,
+    "Quantity": 187,
+    "rowguid": "B72DCCAC-5FDE-41DD-BD6F-6F05FDD053C1",
+    "ModifiedDate": "2014-08-11T00:00:00"
+  },
+  {
+    "ProductId": 463,
+    "LocationId": 1,
+    "Shelf": "G",
+    "Bin": 3,
+    "Quantity": 499,
+    "rowguid": "E294536D-7F5A-4024-8466-353B39048C6C",
+    "ModifiedDate": "2014-08-06T00:00:00"
+  },
+  {
+    "ProductId": 463,
+    "LocationId": 6,
+    "Shelf": "H",
+    "Bin": 3,
+    "Quantity": 566,
+    "rowguid": "4AEB951E-8C65-4C28-A5AB-E53B0D8CC9D5",
+    "ModifiedDate": "2014-08-06T00:00:00"
+  },
+  {
+    "ProductId": 463,
+    "LocationId": 50,
+    "Shelf": "K",
+    "Bin": 3,
+    "Quantity": 620,
+    "rowguid": "7CA89D43-F69E-4CD3-A8E7-53A418BFF63C",
+    "ModifiedDate": "2014-08-06T00:00:00"
+  },
+  {
+    "ProductId": 464,
+    "LocationId": 1,
+    "Shelf": "G",
+    "Bin": 4,
+    "Quantity": 500,
+    "rowguid": "01ABD22D-700D-4459-BAAA-CA7503372755",
+    "ModifiedDate": "2014-08-06T00:00:00"
+  },
+  {
+    "ProductId": 464,
+    "LocationId": 6,
+    "Shelf": "H",
+    "Bin": 4,
+    "Quantity": 568,
+    "rowguid": "D49AA8D2-4FEC-4FC4-B343-F2C8E2D8F988",
+    "ModifiedDate": "2014-08-06T00:00:00"
+  },
+  {
+    "ProductId": 464,
+    "LocationId": 50,
+    "Shelf": "K",
+    "Bin": 4,
+    "Quantity": 622,
+    "rowguid": "1ECA084D-C032-47FF-9FA4-204F34EF3E72",
+    "ModifiedDate": "2014-08-06T00:00:00"
+  },
+  {
+    "ProductId": 465,
+    "LocationId": 1,
+    "Shelf": "G",
+    "Bin": 5,
+    "Quantity": 502,
+    "rowguid": "EE6AE42C-2C83-4CC2-9309-505213BB9208",
+    "ModifiedDate": "2014-08-11T00:00:00"
+  },
+  {
+    "ProductId": 465,
+    "LocationId": 6,
+    "Shelf": "H",
+    "Bin": 5,
+    "Quantity": 569,
+    "rowguid": "0679645A-45A0-4B7C-8816-EA95E8C033B8",
+    "ModifiedDate": "2014-08-11T00:00:00"
+  },
+  {
+    "ProductId": 465,
+    "LocationId": 50,
+    "Shelf": "K",
+    "Bin": 5,
+    "Quantity": 624,
+    "rowguid": "D886564A-8A3A-41CF-8CD7-83902095E53B",
+    "ModifiedDate": "2014-08-11T00:00:00"
+  },
+  {
+    "ProductId": 466,
+    "LocationId": 1,
+    "Shelf": "G",
+    "Bin": 8,
+    "Quantity": 504,
+    "rowguid": "6294ECB8-195A-40C7-8199-E2CFCF5A0C92",
+    "ModifiedDate": "2014-08-11T00:00:00"
+  },
+  {
+    "ProductId": 466,
+    "LocationId": 6,
+    "Shelf": "H",
+    "Bin": 6,
+    "Quantity": 571,
+    "rowguid": "7CC8444B-55DD-46F4-BFA1-797597508E7B",
+    "ModifiedDate": "2014-08-11T00:00:00"
+  },
+  {
+    "ProductId": 466,
+    "LocationId": 50,
+    "Shelf": "K",
+    "Bin": 6,
+    "Quantity": 625,
+    "rowguid": "0D85905E-6003-46DB-937F-9EEE681D8314",
+    "ModifiedDate": "2014-08-11T00:00:00"
+  },
+  {
+    "ProductId": 467,
+    "LocationId": 1,
+    "Shelf": "G",
+    "Bin": 7,
+    "Quantity": 505,
+    "rowguid": "02929F08-040B-48E8-B859-E351476B2773",
+    "ModifiedDate": "2014-08-11T00:00:00"
+  },
+  {
+    "ProductId": 467,
+    "LocationId": 6,
+    "Shelf": "H",
+    "Bin": 7,
+    "Quantity": 572,
+    "rowguid": "49C9C319-356B-4D73-952B-F0D59DDA9355",
+    "ModifiedDate": "2014-08-11T00:00:00"
+  },
+  {
+    "ProductId": 467,
+    "LocationId": 50,
+    "Shelf": "K",
+    "Bin": 7,
+    "Quantity": 627,
+    "rowguid": "EBEFD4D6-F12A-4EEB-9584-2A6289F2CB51",
+    "ModifiedDate": "2014-08-11T00:00:00"
+  },
+  {
+    "ProductId": 468,
+    "LocationId": 1,
+    "Shelf": "G",
+    "Bin": 3,
+    "Quantity": 507,
+    "rowguid": "FDA6B140-92B3-4E53-BAC5-8A4B2E848FDB",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 468,
+    "LocationId": 6,
+    "Shelf": "H",
+    "Bin": 8,
+    "Quantity": 574,
+    "rowguid": "E1D4B9B3-E9A0-4B0E-BA76-587336907407",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 468,
+    "LocationId": 50,
+    "Shelf": "K",
+    "Bin": 8,
+    "Quantity": 628,
+    "rowguid": "0326587F-9A2E-4BFB-8017-2B006B61A963",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 469,
+    "LocationId": 1,
+    "Shelf": "J",
+    "Bin": 4,
+    "Quantity": 508,
+    "rowguid": "CF285FF3-9881-4836-A3BF-6FF502199E7E",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 469,
+    "LocationId": 6,
+    "Shelf": "H",
+    "Bin": 9,
+    "Quantity": 576,
+    "rowguid": "D4F4AF2D-5215-45E8-8C6A-4D1C3B27EDC8",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 469,
+    "LocationId": 50,
+    "Shelf": "K",
+    "Bin": 9,
+    "Quantity": 630,
+    "rowguid": "D7BBA80A-DFBD-4929-9E30-673F94F735D4",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 470,
+    "LocationId": 1,
+    "Shelf": "J",
+    "Bin": 5,
+    "Quantity": 510,
+    "rowguid": "ACCBA237-3706-42C4-AFE8-0FB6BB8FD37C",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 470,
+    "LocationId": 6,
+    "Shelf": "H",
+    "Bin": 10,
+    "Quantity": 577,
+    "rowguid": "F3FC1C07-317B-47B5-85D5-D57DAE2AA709",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 470,
+    "LocationId": 50,
+    "Shelf": "K",
+    "Bin": 10,
+    "Quantity": 632,
+    "rowguid": "85454FD3-9F47-4F6F-B38A-89258E127154",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 471,
+    "LocationId": 1,
+    "Shelf": "J",
+    "Bin": 6,
+    "Quantity": 512,
+    "rowguid": "6203D596-5106-4997-9B9F-A40DE5D62B80",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 471,
+    "LocationId": 6,
+    "Shelf": "H",
+    "Bin": 11,
+    "Quantity": 579,
+    "rowguid": "43489450-D406-4486-B34D-2700C4DD13B4",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 471,
+    "LocationId": 50,
+    "Shelf": "K",
+    "Bin": 11,
+    "Quantity": 633,
+    "rowguid": "C659B805-FEE3-45A8-BEFE-14DC52E1C25C",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 472,
+    "LocationId": 1,
+    "Shelf": "J",
+    "Bin": 7,
+    "Quantity": 513,
+    "rowguid": "4475B9F1-8FE0-4C38-A05C-F15B0216FEA8",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 472,
+    "LocationId": 6,
+    "Shelf": "H",
+    "Bin": 12,
+    "Quantity": 580,
+    "rowguid": "2ADAC0C5-91BF-4B1D-B154-1896B42BEB4E",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 472,
+    "LocationId": 50,
+    "Shelf": "K",
+    "Bin": 12,
+    "Quantity": 635,
+    "rowguid": "453994CB-4B54-4131-8CC6-DDC48F85908A",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 473,
+    "LocationId": 1,
+    "Shelf": "J",
+    "Bin": 8,
+    "Quantity": 515,
+    "rowguid": "2A2BCCF9-EB66-4667-ADE7-3EA56BFA7240",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 473,
+    "LocationId": 6,
+    "Shelf": "H",
+    "Bin": 13,
+    "Quantity": 582,
+    "rowguid": "EEEB74F6-DC41-4B85-8258-9905DBC4E837",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 473,
+    "LocationId": 50,
+    "Shelf": "K",
+    "Bin": 13,
+    "Quantity": 636,
+    "rowguid": "D5DFE757-4EDC-4BBF-91EC-79EAE89B44AC",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 474,
+    "LocationId": 1,
+    "Shelf": "J",
+    "Bin": 9,
+    "Quantity": 516,
+    "rowguid": "479B1BC1-F815-44AE-A696-91A2A3375706",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 474,
+    "LocationId": 6,
+    "Shelf": "H",
+    "Bin": 14,
+    "Quantity": 584,
+    "rowguid": "FD82F153-B473-4CEF-8F91-8A33600EB904",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 474,
+    "LocationId": 50,
+    "Shelf": "K",
+    "Bin": 14,
+    "Quantity": 638,
+    "rowguid": "9A5778BD-EE98-4366-A40C-3B0B35388C4B",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 475,
+    "LocationId": 1,
+    "Shelf": "J",
+    "Bin": 10,
+    "Quantity": 518,
+    "rowguid": "CDB7B866-0FEC-4CD0-B93D-7EA2EDC291EC",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 475,
+    "LocationId": 6,
+    "Shelf": "H",
+    "Bin": 15,
+    "Quantity": 585,
+    "rowguid": "173B2A0E-0FCA-4D75-A25E-887AB7523C6A",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 475,
+    "LocationId": 50,
+    "Shelf": "K",
+    "Bin": 15,
+    "Quantity": 640,
+    "rowguid": "2ACB4D37-DE06-4050-A6D9-6C6BB4465417",
+    "ModifiedDate": "2014-08-01T00:00:00"
+  },
+  {
+    "ProductId": 476,
+    "LocationId": 5,
+    "Shelf": "D",
+    "Bin": 0,
+    "Quantity": 324,
+    "rowguid": "436F1D08-3A45-42BD-8DD1-B6FA551B0BF3",
+    "ModifiedDate": "2014-07-19T00:00:00"
+  },
+  {
+    "ProductId": 476,
+    "LocationId": 10,
+    "Shelf": "A",
+    "Bin": 0,
+    "Quantity": 404,
+    "rowguid": "A592F45B-9DA4-4875-A75F-CEFFE443A6CC",
+    "ModifiedDate": "2014-07-19T00:00:00"
+  },
+  {
+    "ProductId": 476,
+    "LocationId": 20,
+    "Shelf": "B",
+    "Bin": 0,
+    "Quantity": 355,
+    "rowguid": "3A134806-6A8E-4E17-B471-365515F2153E",
+    "ModifiedDate": "2014-07-19T00:00:00"
+  },
+  {
+    "ProductId": 477,
+    "LocationId": 2,
+    "Shelf": "B",
+    "Bin": 0,
+    "Quantity": 403,
+    "rowguid": "56ADDE61-B9F7-4558-900F-1EF3DCAC50F2",
+    "ModifiedDate": "2014-07-19T00:00:00"
+  },
+  {
+    "ProductId": 477,
+    "LocationId": 5,
+    "Shelf": "D",
+    "Bin": 0,
+    "Quantity": 323,
+    "rowguid": "3200AAB0-0DA9-4F7D-809A-F5A0ADE43569",
+    "ModifiedDate": "2014-07-19T00:00:00"
+  },
+  {
+    "ProductId": 477,
+    "LocationId": 10,
+    "Shelf": "A",
+    "Bin": 0,
+    "Quantity": 353,
+    "rowguid": "1E085EBC-8780-434D-AC03-8C98C230449B",
+    "ModifiedDate": "2014-07-19T00:00:00"
+  },
+  {
+    "ProductId": 478,
+    "LocationId": 2,
+    "Shelf": "B",
+    "Bin": 0,
+    "Quantity": 497,
+    "rowguid": "939EC4E8-7C4D-40CB-B663-0C98CF85163F",
+    "ModifiedDate": "2014-07-25T00:00:00"
+  },
+  {
+    "ProductId": 478,
+    "LocationId": 5,
+    "Shelf": "D",
+    "Bin": 0,
+    "Quantity": 568,
+    "rowguid": "5C1065C6-DED6-4569-892F-455FE0A920AC",
+    "ModifiedDate": "2014-07-25T00:00:00"
+  },
+  {
+    "ProductId": 478,
+    "LocationId": 10,
+    "Shelf": "A",
+    "Bin": 0,
+    "Quantity": 622,
+    "rowguid": "B3DC38EC-98D7-4F0E-99C9-9B45E0FB2E0A",
+    "ModifiedDate": "2014-07-25T00:00:00"
+  },
+  {
+    "ProductId": 479,
+    "LocationId": 2,
+    "Shelf": "C",
+    "Bin": 0,
+    "Quantity": 441,
+    "rowguid": "507B5E1E-3FCB-487D-BF9B-705556C228ED",
+    "ModifiedDate": "2014-07-25T00:00:00"
+  },
+  {
+    "ProductId": 479,
+    "LocationId": 5,
+    "Shelf": "E",
+    "Bin": 0,
+    "Quantity": 390,
+    "rowguid": "0BE6DFB1-9845-4106-AB26-962FD5F80872",
+    "ModifiedDate": "2014-07-25T00:00:00"
+  },
+  {
+    "ProductId": 479,
+    "LocationId": 10,
+    "Shelf": "C",
+    "Bin": 0,
+    "Quantity": 198,
+    "rowguid": "712165A2-789D-4848-8D60-8153AB5F27F5",
+    "ModifiedDate": "2014-07-25T00:00:00"
+  },
+  {
+    "ProductId": 480,
+    "LocationId": 2,
+    "Shelf": "C",
+    "Bin": 0,
+    "Quantity": 689,
+    "rowguid": "4FA134C6-6049-4A9A-8A30-F2F1E8159D63",
+    "ModifiedDate": "2014-07-25T00:00:00"
+  },
+  {
+    "ProductId": 480,
+    "LocationId": 5,
+    "Shelf": "E",
+    "Bin": 0,
+    "Quantity": 515,
+    "rowguid": "D327C8E5-8E39-4EA2-B81E-43423F1FD068",
+    "ModifiedDate": "2014-07-25T00:00:00"
+  },
+  {
+    "ProductId": 480,
+    "LocationId": 10,
+    "Shelf": "C",
+    "Bin": 0,
+    "Quantity": 457,
+    "rowguid": "E3A857DF-EED7-4760-8E91-70A7BCF28937",
+    "ModifiedDate": "2014-07-25T00:00:00"
+  },
+  {
+    "ProductId": 481,
+    "LocationId": 2,
+    "Shelf": "C",
+    "Bin": 0,
+    "Quantity": 427,
+    "rowguid": "1EF33B99-F9AA-445F-9355-DDB2D6201712",
+    "ModifiedDate": "2014-07-31T00:00:00"
+  },
+  {
+    "ProductId": 481,
+    "LocationId": 5,
+    "Shelf": "E",
+    "Bin": 0,
+    "Quantity": 374,
+    "rowguid": "5D341AE1-D5C5-4B4F-ACA1-4520E5B87BB9",
+    "ModifiedDate": "2014-07-31T00:00:00"
+  },
+  {
+    "ProductId": 481,
+    "LocationId": 10,
+    "Shelf": "C",
+    "Bin": 0,
+    "Quantity": 196,
+    "rowguid": "1FD00477-EB28-4C02-80E3-C4CB70CDF107",
+    "ModifiedDate": "2014-07-31T00:00:00"
+  },
+  {
+    "ProductId": 482,
+    "LocationId": 2,
+    "Shelf": "D",
+    "Bin": 0,
+    "Quantity": 321,
+    "rowguid": "9EAF665B-08C1-4456-AA2A-536C607BACFC",
+    "ModifiedDate": "2014-07-31T00:00:00"
+  },
+  {
+    "ProductId": 482,
+    "LocationId": 5,
+    "Shelf": "R",
+    "Bin": 10,
+    "Quantity": 427,
+    "rowguid": "3E33C96A-4001-4312-9E27-767676334A6B",
+    "ModifiedDate": "2014-07-31T00:00:00"
+  },
+  {
+    "ProductId": 482,
+    "LocationId": 10,
+    "Shelf": "L",
+    "Bin": 0,
+    "Quantity": 176,
+    "rowguid": "45A769B5-15BE-4405-9C1F-42DBEF34FD71",
+    "ModifiedDate": "2014-07-31T00:00:00"
+  },
+  {
+    "ProductId": 483,
+    "LocationId": 2,
+    "Shelf": "D",
+    "Bin": 0,
+    "Quantity": 691,
+    "rowguid": "53431B4E-2948-4D8F-A9D1-B2A9DCDA30D8",
+    "ModifiedDate": "2014-08-05T00:00:00"
+  },
+  {
+    "ProductId": 483,
+    "LocationId": 5,
+    "Shelf": "R",
+    "Bin": 0,
+    "Quantity": 531,
+    "rowguid": "E83DD8E1-26F1-41E6-98A5-C88004BE7A00",
+    "ModifiedDate": "2014-08-05T00:00:00"
+  },
+  {
+    "ProductId": 483,
+    "LocationId": 10,
+    "Shelf": "L",
+    "Bin": 0,
+    "Quantity": 459,
+    "rowguid": "C9400641-1B3A-4A84-BAF0-16B110A5D4B2",
+    "ModifiedDate": "2014-08-05T00:00:00"
+  },
+  {
+    "ProductId": 484,
+    "LocationId": 2,
+    "Shelf": "D",
+    "Bin": 0,
+    "Quantity": 427,
+    "rowguid": "0A8CD779-6C31-448A-8F48-D86430AC93F9",
+    "ModifiedDate": "2014-08-05T00:00:00"
+  },
+  {
+    "ProductId": 484,
+    "LocationId": 5,
+    "Shelf": "R",
+    "Bin": 0,
+    "Quantity": 374,
+    "rowguid": "89E015F9-84D7-4200-AB8B-FC6B86B9BD5D",
+    "ModifiedDate": "2014-08-05T00:00:00"
+  },
+  {
+    "ProductId": 484,
+    "LocationId": 10,
+    "Shelf": "L",
+    "Bin": 0,
+    "Quantity": 196,
+    "rowguid": "1CEB98A2-4EF9-493B-AD32-5C9C530D064D",
+    "ModifiedDate": "2014-08-05T00:00:00"
+  },
+  {
+    "ProductId": 485,
+    "LocationId": 2,
+    "Shelf": "D",
+    "Bin": 0,
+    "Quantity": 321,
+    "rowguid": "96758939-C6B3-444B-821C-519D6917D89C",
+    "ModifiedDate": "2014-08-05T00:00:00"
+  },
+  {
+    "ProductId": 485,
+    "LocationId": 5,
+    "Shelf": "R",
+    "Bin": 0,
+    "Quantity": 427,
+    "rowguid": "500F898B-8F62-420F-AB9B-2F20C24BA319",
+    "ModifiedDate": "2014-08-05T00:00:00"
+  },
+  {
+    "ProductId": 485,
+    "LocationId": 10,
+    "Shelf": "L",
+    "Bin": 0,
+    "Quantity": 176,
+    "rowguid": "7781927B-BB91-4E18-8EE2-88E7761F1D5A",
+    "ModifiedDate": "2014-08-05T00:00:00"
+  },
+  {
+    "ProductId": 486,
+    "LocationId": 2,
+    "Shelf": "D",
+    "Bin": 0,
+    "Quantity": 689,
+    "rowguid": "39AE00FA-4BE0-4686-BAC2-E21941266A72",
+    "ModifiedDate": "2014-08-05T00:00:00"
+  },
+  {
+    "ProductId": 486,
+    "LocationId": 5,
+    "Shelf": "R",
+    "Bin": 0,
+    "Quantity": 515,
+    "rowguid": "50F68020-73A0-4C92-89FD-3A6CDA2CE599",
+    "ModifiedDate": "2014-08-05T00:00:00"
+  },
+  {
+    "ProductId": 486,
+    "LocationId": 10,
+    "Shelf": "L",
+    "Bin": 0,
+    "Quantity": 457,
+    "rowguid": "437E0279-1E93-4E7D-8510-EF7DFCBF0146",
+    "ModifiedDate": "2014-08-05T00:00:00"
+  },
+  {
+    "ProductId": 487,
+    "LocationId": 2,
+    "Shelf": "D",
+    "Bin": 0,
+    "Quantity": 331,
+    "rowguid": "99793199-1E85-40DF-B211-5B3139811A07",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 487,
+    "LocationId": 5,
+    "Shelf": "R",
+    "Bin": 0,
+    "Quantity": 337,
+    "rowguid": "FDE61861-1AFC-41C3-A3FC-1C41719450EB",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 487,
+    "LocationId": 10,
+    "Shelf": "L",
+    "Bin": 0,
+    "Quantity": 324,
+    "rowguid": "C298805F-0AED-4F20-81A3-C41ABD3F0EF2",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 488,
+    "LocationId": 2,
+    "Shelf": "D",
+    "Bin": 0,
+    "Quantity": 312,
+    "rowguid": "309BD92C-69F8-4A82-A89E-7E48985BCB99",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 488,
+    "LocationId": 5,
+    "Shelf": "R",
+    "Bin": 0,
+    "Quantity": 318,
+    "rowguid": "9553FC57-B940-434A-AC64-F4654222C876",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  },
+  {
+    "ProductId": 488,
+    "LocationId": 10,
+    "Shelf": "L",
+    "Bin": 0,
+    "Quantity": 305,
+    "rowguid": "1F7E6F83-8B80-410B-9724-0EAB0CF40D1E",
+    "ModifiedDate": "2014-08-10T00:00:00"
+  }
+]

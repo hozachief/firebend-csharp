@@ -158,6 +158,8 @@ namespace SrDevTest.Controllers
         [Route("InventoryStockReport")]
         public InventoryStockReportDto GetInventoryStockReport(DateTime? beginDate, DateTime? endDate, int? productNumber)
         {
+            InventoryStockReportDto inventoryStockReportDto = new InventoryStockReportDto {};
+
             AdventureWorks2019Context context = new AdventureWorks2019Context();
             var dbProductInventories = context.ProductInventories;
             var dbSalesOrderDetails = context.SalesOrderDetails;
@@ -168,28 +170,31 @@ namespace SrDevTest.Controllers
                 .Select(g => new { g.Key.ProductId, g.Key.LocationId, QtyOnHand = g.Sum(q => q.Quantity) })
                 .FirstOrDefault();
 
-            var salesOrderDetails = dbSalesOrderDetails
+            if (productInventories != null)
+            {
+                var salesOrderDetails = dbSalesOrderDetails
                 .Where(x => x.ProductId == productInventories.ProductId)
                 .GroupBy(x => new { x.ProductId })
                 .Select(g => new { g.Key.ProductId, QtyUsed = g.Sum(q => q.OrderQty) })
                 .FirstOrDefault();
 
-            var consumptionQty = productInventories.QtyOnHand - salesOrderDetails.QtyUsed;
+                if (salesOrderDetails != null)
+                {
+                    var consumptionQty = productInventories.QtyOnHand - salesOrderDetails.QtyUsed;
 
-            double percentageOverage = 0;
-            if (consumptionQty > salesOrderDetails.QtyUsed)
-            {
-                percentageOverage = (consumptionQty / productInventories.QtyOnHand) * 100;
+                    double percentageOverage = 0;
+                    if (consumptionQty > salesOrderDetails.QtyUsed)
+                    {
+                        percentageOverage = (consumptionQty / productInventories.QtyOnHand) * 100;
+                    }
+
+                    inventoryStockReportDto.ProductLocation = productInventories.LocationId;
+                    inventoryStockReportDto.ProductId = productInventories.ProductId;
+                    inventoryStockReportDto.QtyOnHand = productInventories.QtyOnHand;
+                    inventoryStockReportDto.ConsumptionQty = consumptionQty;
+                    inventoryStockReportDto.PercentageOfOverage = percentageOverage;
+                }
             }
-
-            InventoryStockReportDto inventoryStockReportDto = new InventoryStockReportDto
-            {
-                ProductLocation = productInventories.LocationId,
-                ProductId = productInventories.ProductId,
-                QtyOnHand = productInventories.QtyOnHand,
-                ConsumptionQty = consumptionQty,
-                PercentageOfOverage = percentageOverage
-            };
 
             return inventoryStockReportDto;
         }
